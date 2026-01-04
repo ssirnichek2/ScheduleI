@@ -1,6 +1,6 @@
 ﻿##--ЗАСТАВКА--##
 
-TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS не одобряет производство, торговлю или употребление наркоты.\n\nВсе процессы, показанные в этой игре, чистая выдумка и не имеют ничего общего с реальностью. Не пытайся их повторить — наркотиков не выйдет, зато себе можно серьёзно навредить.\n\nПожалуйста, не употребляй наркотики.\n\nПереведено Сырничком :3
+TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS не одобряет производство, торговлю или употребление наркоты.\n\nВсе процессы, показанные в этой игре, чистая выдумка и не имеют ничего общего с реальностью. Не пытайся их повторить — наркотиков не выйдет, зато себе можно серьёзно навредить.\n\nПожалуйста, не употребляй наркотики.\n\nПереведено Сырничком :3 ТЕСТ
 
 ##--ГЛАВНОЕ МЕНЮ--##
 
@@ -4890,3 +4890,4 @@ Lighting=Освещение
 sr:"^(\d+x) (.+)$"=$1 $2
 sr:"^Manage (\d+)x (.+)$"=Управлять $1x $2
 sr:"(\d+x) (.+)\, (.+)"=$1 $2, $3
+
