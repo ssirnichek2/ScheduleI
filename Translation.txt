@@ -214,6 +214,8 @@ You can set filters on item slots to tell employees which items can or can't go 
 
 You can use an AC unit to warm or cool an area.=Ты можешь использовать кондиционер чтобы сделать нужную температуру в определённой облости.
 
+You can rename stations, pots, storage rack, etc, using your management clipboard.=Ты можешь переименовать станции, горшки, хранилища и т. д. с помощью планшета управления.
+
 ##--ПАУЗА--##
 
 PAUSED=ПАУЗА
@@ -532,7 +534,7 @@ Read the message from the unknown contact=Прочитай сообщение о
 I have a business proposition I would like to discuss with you. Meet me at the parking lot next to Taco Ticklers. I'll be in the black SUV.=Я хотел бы разъяснить некоторые моменты по бизнесу. Встреть меня на парковке перед 'Taco Ticklers'. Буду на чёрном гелике.
 Meet the stranger at the parking lot next to Taco Ticklers=Встреть незнакомца на парковке перед 'Taco Ticklers'
 You wanted to meet?=Это ты хотел встретиться?
-Ah, it's you... I'm Thomas. I believe we share a similar line of work.=А, это ты... Я томас. Я уверен что у нас с тобой похожая работа.
+Ah, it's you... I'm Thomas. I believe we share a similar line of work.=А, это ты... Я Томас. Я уверен что у нас с тобой похожая работа.
 I'd like to apologise for the minor altercation we had earlier involving your RV. We have a rather successful operation here in Hyland Point, and we're not keen on sharing the market.=Хотел бы принести свои соболезнования за фургон. У нас в Хайленд Поинт довольно успешная позиция, и мы не собираемся делить рынок.
 Go ahead=Ну, дальше
 However, I'd like to extend an offer. You will sell us product on an ongoing basis; 2-3 times per week. Large quantities and wholesale prices.=В любом случае, у меня к тебе предложение. Ты продаёшь нам свой товар на постоянной основе 2-3 раза в неделю. Крупные партии и оптовые цены.
@@ -1517,6 +1519,7 @@ Come on, let's do do this=Ну же, давай сделаем это
 Ready when you are homie=Жду тебя сладкий
 Ready to roll?=Готов зажигать?
 Finally=Наконец
+Finally...=Наконец...
 Yeah??=Ну??
 Come on come on!=Быстрее!
 You got it?=Товар с тобой?
@@ -4305,6 +4308,7 @@ Son of a bitch!=Пидорас!
 
 In use by workers=Используется работником
 In use by other player=Используется игроком
+Currently in use=Используется
 Select an object or employee to manage it=Выбери оборудование или сотрудника чтобы управлять
 
 Management Clipboard=Планшет управления
