@@ -479,9 +479,14 @@ Oscar sells special equipment and supplies.=Оскар продаёт спецо
 Yeah okay thanks...=Ага, спасибо...
 
 Do you know where I can get a sewer key?=Ты знаешь где достать канализационный ключ?
-Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>downtown</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>центральном районе</color>...
 Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>northtown</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>северном районе</color>...
-Oh! and I remember hearing <color\=#76C9FF>that shirtless guy with the bucket hat</color> has one! Sorry, Oscar isn't very good with names. Hope this helps.=О! Вспомнил! Он есть у <color\=#76C9FF>того пареня без рубашки и с ведром на голове</color> Прости, Оскар плохо запоминает имена. Надеюсь, Оскар помог.
+Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>westville</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>западном районе</color>...
+Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>downtown</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>центральном районе</color>...
+Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>suburbia</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>пригороде</color>...
+Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>uptown</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>верхнем районе</color>...
+Oh! and I remember hearing <color\=#76C9FF>that shirtless guy with the bucket hat</color> has one! Sorry, Oscar isn't very good with names. Hope this helps.=О! Вспомнил! Он есть у <color\=#76C9FF>того пареня без рубашки и с ведром на голове</color> Прости, Оскар плохо запоминает имена. Надеюсь, помог.
+
+Oh! and I remember hearing <color\=#76C9FF>the guy with the big eyebrows and the teardrop tattoo</color> has one! Sorry, Oscar isn't very good with names. Hope this helps.=О! Вспомнил! Он есть у <color\=#76C9FF>парня со здоровенными бровями и татухой в виде слезы.</color> Прости, Оскар плохо запоминает имена. Надеюсь, помог.
 
 Thanks. By the way, my friend Shirley can hook you up with pseudo. I've passed your number on to her.=Спасибо. Кстати, моя подруга Ширли может подкинуть тебе псевдо. Я уже передал ей твой номер.
 
@@ -1455,6 +1460,22 @@ Use <color\=#88CBFF>RMB</color> to toggle between <color\=#F86266>heating</color
 
 Mushrooms only grow in cool temperatures. Use an <color\=#88CBFF>AC Unit</color> to keep the area cool.=Грибы растут только в холодной температуре. Для этого используй <color\=#88CBFF>кондиционер</color>.
 Remember to list your new product for sale in the <color\=#88CBFF>product manager app</color>.
+
+Those bitchass Benzies just tried to rob me - I fought them off but lost some stuff, sorry boss.=Эти пидоры Бензисы только что пытались меня ограбить - получилось отбиться, но потеряно немного товара, сорян, босс.
+Sorry boss, some Benzies goons just jumped me. I tried my best but they managed to take everything...=Сорян, босс, парочка гандонов Бензисов напала на меня. Они забрали всё...
+Hey, I defended myself against some Benzies goons. No product or cash lost.=Привет, мне удалось отбиться от шайки Бензисов. Ни товар, ни деньги не потеряны.
+Some Benzies punks tried to rob me but I managed to fight them off - no product or cash lost, boss.=Пара шакалов Бензисов пытались меня ограбить, но я отбился - ни товар, ни деньги не потеряны, босс.
+Hey, the Benzies just robbed me - they came outta nowhere and I wasn't able to defend myself. They got everything, sorry boss...=Сука, Бензисы ограбили меня - выскочили из ниоткуда, и мне не удалось защититься. Они забрали всё, простите, босс...
+Hey boss, the Benzies tried to jump me but I backed those chumps down - they didn't get a thing from me.=Хай босс, Бензисы попытались наехать, но удалось прижать этих даунов - они ничего не взяли.
+The damn Benzies just sent some guys after me - I backed them off but they managed to swipe some stuff. Sorry boss.=Пидоры Бензисы прислали ко мне людей - удалось отпугнуть, но они успели стянуть немного добра. Простите, босс.
+Boss, some Benzies tried to jump me - I put up a fight but they got some stuff. Sorry.=Босс, Бензисы пытались наехать - я отбивался, но всё же они утащили немного. Простите.
+
+sr:This is what they got:\n\$(\d{1,3}(?:,\d{3})?) cash=Вот что забрали:\n$1$ налички
+sr:This is what they got:\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n\$(\d{1,3}(?:,\d{3})?) cash=Вот что забрали:\n$1 $2 с $3 ($4)\n$5$ налички
+sr:This is what they got:\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n\$(\d{1,3}(?:,\d{3})?) cash=Вот что забрали:\n$1 $2 с $3 ($4)\n$5 $6 с $7 ($8)\n$9$ налички
+sr:This is what they got:\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n\$(\d{1,3}(?:,\d{3})?) cash=Вот что забрали:\n$1 $2 с $3 ($4)\n$5 $6 с $7 ($8)\n$9 $10 с $11 ($12)\n$13$ налички
+sr:This is what they got:\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n\$(\d{1,3}(?:,\d{3})?) cash=Вот что забрали:\n$1 $2 с $3 ($4)\n$5 $6 с $7 ($8)\n$9 $10 с $11 ($12)\n$13 $14 с $15 ($16)\n$17$ налички
+sr:This is what they got:\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n\$(\d{1,3}(?:,\d{3})?) cash=Вот что забрали:\n$1 $2 с $3 ($4)\n$5 $6 с $7 ($8)\n$9 $10 с $11 ($12)\n$13 $14 с $15 ($16)\n$17 $18 с $19 ($20)\n$21$ налички
 
 ##--СДЕЛКА--##
 
