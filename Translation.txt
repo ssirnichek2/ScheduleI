@@ -1367,7 +1367,7 @@ Unlock this dealer by reaching 'friendly' with one of their connections.=Раз�
 Unlock this supplier by reaching 'friendly' with one of their connections.=Разблокируй этого поставщика подружившись с одним из его контактов.
 This dealer is ready to be hired. Go to them and pay their signing free to recruit them.=Дилер готов стать вашим, поговори с ним.
 
-Most Purchased Product <color\=#A0A0A0>(Weekly)</color>=Самый покупаемый продукт <color\=#A0A0A0>(За неделю)</color>
+Most Purchased Product <color\=#A0A0A0>(Weekly)</color>=Лидер продаж <color\=#A0A0A0>(За неделю)</color>
 No recent purchases=Нет недавних покупок
 Total Spent <color\=#A0A0A0>(Weekly)</color>=Всего потрачено <color\=#A0A0A0>(За неделю)</color>
 
@@ -1401,7 +1401,7 @@ Dealer Management=Управление дилерами
 you haven't recruited any dealers=Ты не нанял ни одного дилера
 Cut=Процент
 Inventory=Инвентарь
-No items in inventory=Инвентарь пуст
+No Items in inventory=Инвентарь пуст
 Assign Customer=    Назначить клиента
 
 ##-доставки-##
