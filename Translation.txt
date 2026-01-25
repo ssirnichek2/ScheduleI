@@ -151,7 +151,7 @@ Feeling stingy? Customers sometimes won't notice if you give them slightly less 
 
 You won't be able to enter your property while wanted if you're within sight of police.=Пока ты в розыске и в поле зрения копов, домой ты не зайдёшь.
 
-When curfew is active, all citizens are legally required to remain within their residences from 9pm to 5am.=Во время комендантского часа, все граждане по закону должны сидеть по домам с 21:00 до 05:00.
+When curfew is active, all citizens are legally required to remain within their residences from 9pm to 5am.=Во время комендантского часа, все граждане по закону должны сидеть по домам с 21:00 до 5:00.
 
 Each property has a limit to the amount of employees that can work there.=У каждой собственности свой лимит на количество сотрудников.
 
@@ -216,7 +216,9 @@ You can set filters on item slots to tell employees which items can or can't go 
 
 You can use an AC unit to warm or cool an area.=Ты можешь использовать кондиционер чтобы установить нужную температуру в определённой облости.
 
-You can rename stations, pots, storage rack, etc, using your management clipboard.=Ты можешь переименовывать станции, горшки, хранилища и т. д. с помощью планшета управления.
+You can rename stations, pots, storage racks, etc, using your management clipboard.=Ты можешь переименовывать станции, горшки, хранилища и т. д. с помощью планшета управления.
+
+Make sure you are providing the right quality product to your dealers for their assigned customers.=Убедись, что nы выдаёim дилерам товар качества, соответствующего предпочтениям их клиентов.
 
 ##--ПАУЗА--##
 
@@ -733,7 +735,7 @@ Sure is=Доброе
 If you're heading in to town for some deals, would you mind grabbing something for me?=Если поедешь в город, не мог бы ты кое что взять для меня?
 I've got some business with some fellas staying down at the motel, tell them you're here for Nelson's package. No need to pay for anything.=У меня сделка с ребятами которые остаются в мотеле. Скажи им, что ты за посылкой Нельсона. Ни за что платить не надо.
 If you're lookin' to pick up any supplies for yourself, just throw 'em on my tab.=Если что-то захочешь прикупить, я угощаю.
-Cheers buddy. Feel free to take my truck.=Давай, можешь взять мой пикап.
+Cheers buddy. Feel free to take my truck.=Удачной тебе дороги, парень!
 
 Thanks. Hey my friend Chelsey might be interesed in your stuff. You should go talk to her.=Спасибо. Кстати, моя подруга Челси может понравиться твой товар. Тебе следует с ней поговорить.
 Much appreciated. Maybe go talk to Chelsey. I think she'd like your product=Благодарю. Может тебе поговорить с Челси? Думаю, ей понравится твой товар
@@ -920,15 +922,15 @@ Cash=Наличка
 Cold hard cash.=Холодные, твёрдые деньги.
 Discard=Удалить
 
-r:"^(1:(\d{2}) AM)\sMonday*"=Пн 01:$2
-r:"^(2:(\d{2}) AM)\sMonday*"=Пн 02:$2
-r:"^(3:(\d{2}) AM)\sMonday*"=Пн 03:$2
-r:"^(4:(\d{2}) AM)\sMonday*"=Пн 04:$2
-r:"^(5:(\d{2}) AM)\sMonday*"=Пн 05:$2
-r:"^(6:(\d{2}) AM)\sMonday*"=Пн 06:$2
-r:"^(7:(\d{2}) AM)\sMonday*"=Пн 07:$2
-r:"^(8:(\d{2}) AM)\sMonday*"=Пн 08:$2
-r:"^(9:(\d{2}) AM)\sMonday*"=Пн 09:$2
+r:"^(1:(\d{2}) AM)\sMonday*"=Пн 1:$2
+r:"^(2:(\d{2}) AM)\sMonday*"=Пн 2:$2
+r:"^(3:(\d{2}) AM)\sMonday*"=Пн 3:$2
+r:"^(4:(\d{2}) AM)\sMonday*"=Пн 4:$2
+r:"^(5:(\d{2}) AM)\sMonday*"=Пн 5:$2
+r:"^(6:(\d{2}) AM)\sMonday*"=Пн 6:$2
+r:"^(7:(\d{2}) AM)\sMonday*"=Пн 7:$2
+r:"^(8:(\d{2}) AM)\sMonday*"=Пн 8:$2
+r:"^(9:(\d{2}) AM)\sMonday*"=Пн 9:$2
 r:"^(10:(\d{2}) AM)\sMonday*"=Пн 10:$2
 r:"^(11:(\d{2}) AM)\sMonday*"=Пн 11:$2
 r:"^(12:(\d{2}) PM)\sMonday*"=Пн 12:$2
@@ -944,15 +946,15 @@ r:"^(9:(\d{2}) PM)\sMonday*"=Пн 21:$2
 r:"^(10:(\d{2}) PM)\sMonday*"=Пн 22:$2
 r:"^(11:(\d{2}) PM)\sMonday*"=Пн 23:$2
 r:"^(12:(\d{2}) AM)\sMonday*"=Пн 00:$2
-r:"^(1:(\d{2}) AM)\sTuesday*"=Вт 01:$2
-r:"^(2:(\d{2}) AM)\sTuesday*"=Вт 02:$2
-r:"^(3:(\d{2}) AM)\sTuesday*"=Вт 03:$2
-r:"^(4:(\d{2}) AM)\sTuesday*"=Вт 04:$2
-r:"^(5:(\d{2}) AM)\sTuesday*"=Вт 05:$2
-r:"^(6:(\d{2}) AM)\sTuesday*"=Вт 06:$2
-r:"^(7:(\d{2}) AM)\sTuesday*"=Вт 07:$2
-r:"^(8:(\d{2}) AM)\sTuesday*"=Вт 08:$2
-r:"^(9:(\d{2}) AM)\sTuesday*"=Вт 09:$2
+r:"^(1:(\d{2}) AM)\sTuesday*"=Вт 1:$2
+r:"^(2:(\d{2}) AM)\sTuesday*"=Вт 2:$2
+r:"^(3:(\d{2}) AM)\sTuesday*"=Вт 3:$2
+r:"^(4:(\d{2}) AM)\sTuesday*"=Вт 4:$2
+r:"^(5:(\d{2}) AM)\sTuesday*"=Вт 5:$2
+r:"^(6:(\d{2}) AM)\sTuesday*"=Вт 6:$2
+r:"^(7:(\d{2}) AM)\sTuesday*"=Вт 7:$2
+r:"^(8:(\d{2}) AM)\sTuesday*"=Вт 8:$2
+r:"^(9:(\d{2}) AM)\sTuesday*"=Вт 9:$2
 r:"^(10:(\d{2}) AM)\sTuesday*"=Вт 10:$2
 r:"^(11:(\d{2}) AM)\sTuesday*"=Вт 11:$2
 r:"^(12:(\d{2}) PM)\sTuesday*"=Вт 12:$2
@@ -968,15 +970,15 @@ r:"^(9:(\d{2}) PM)\sTuesday*"=Вт 21:$2
 r:"^(10:(\d{2}) PM)\sTuesday*"=Вт 22:$2
 r:"^(11:(\d{2}) PM)\sTuesday*"=Вт 23:$2
 r:"^(12:(\d{2}) AM)\sTuesday*"=Вт 00:$2
-r:"^(1:(\d{2}) AM)\sWednesday*"=Ср 01:$2
-r:"^(2:(\d{2}) AM)\sWednesday*"=Ср 02:$2
-r:"^(3:(\d{2}) AM)\sWednesday*"=Ср 03:$2
-r:"^(4:(\d{2}) AM)\sWednesday*"=Ср 04:$2
-r:"^(5:(\d{2}) AM)\sWednesday*"=Ср 05:$2
-r:"^(6:(\d{2}) AM)\sWednesday*"=Ср 06:$2
-r:"^(7:(\d{2}) AM)\sWednesday*"=Ср 07:$2
-r:"^(8:(\d{2}) AM)\sWednesday*"=Ср 08:$2
-r:"^(9:(\d{2}) AM)\sWednesday*"=Ср 09:$2
+r:"^(1:(\d{2}) AM)\sWednesday*"=Ср 1:$2
+r:"^(2:(\d{2}) AM)\sWednesday*"=Ср 2:$2
+r:"^(3:(\d{2}) AM)\sWednesday*"=Ср 3:$2
+r:"^(4:(\d{2}) AM)\sWednesday*"=Ср 4:$2
+r:"^(5:(\d{2}) AM)\sWednesday*"=Ср 5:$2
+r:"^(6:(\d{2}) AM)\sWednesday*"=Ср 6:$2
+r:"^(7:(\d{2}) AM)\sWednesday*"=Ср 7:$2
+r:"^(8:(\d{2}) AM)\sWednesday*"=Ср 8:$2
+r:"^(9:(\d{2}) AM)\sWednesday*"=Ср 9:$2
 r:"^(10:(\d{2}) AM)\sWednesday*"=Ср 10:$2
 r:"^(11:(\d{2}) AM)\sWednesday*"=Ср 11:$2
 r:"^(12:(\d{2}) PM)\sWednesday*"=Ср 12:$2
@@ -992,15 +994,15 @@ r:"^(9:(\d{2}) PM)\sWednesday*"=Ср 21:$2
 r:"^(10:(\d{2}) PM)\sWednesday*"=Ср 22:$2
 r:"^(11:(\d{2}) PM)\sWednesday*"=Ср 23:$2
 r:"^(12:(\d{2}) AM)\sWednesday*"=Ср 00:$2
-r:"^(1:(\d{2}) AM)\sThursday*"=Чт 01:$2
-r:"^(2:(\d{2}) AM)\sThursday*"=Чт 02:$2
-r:"^(3:(\d{2}) AM)\sThursday*"=Чт 03:$2
-r:"^(4:(\d{2}) AM)\sThursday*"=Чт 04:$2
-r:"^(5:(\d{2}) AM)\sThursday*"=Чт 05:$2
-r:"^(6:(\d{2}) AM)\sThursday*"=Чт 06:$2
-r:"^(7:(\d{2}) AM)\sThursday*"=Чт 07:$2
-r:"^(8:(\d{2}) AM)\sThursday*"=Чт 08:$2
-r:"^(9:(\d{2}) AM)\sThursday*"=Чт 09:$2
+r:"^(1:(\d{2}) AM)\sThursday*"=Чт 1:$2
+r:"^(2:(\d{2}) AM)\sThursday*"=Чт 2:$2
+r:"^(3:(\d{2}) AM)\sThursday*"=Чт 3:$2
+r:"^(4:(\d{2}) AM)\sThursday*"=Чт 4:$2
+r:"^(5:(\d{2}) AM)\sThursday*"=Чт 5:$2
+r:"^(6:(\d{2}) AM)\sThursday*"=Чт 6:$2
+r:"^(7:(\d{2}) AM)\sThursday*"=Чт 7:$2
+r:"^(8:(\d{2}) AM)\sThursday*"=Чт 8:$2
+r:"^(9:(\d{2}) AM)\sThursday*"=Чт 9:$2
 r:"^(10:(\d{2}) AM)\sThursday*"=Чт 10:$2
 r:"^(11:(\d{2}) AM)\sThursday*"=Чт 11:$2
 r:"^(12:(\d{2}) PM)\sThursday*"=Чт 12:$2
@@ -1016,15 +1018,15 @@ r:"^(9:(\d{2}) PM)\sThursday*"=Чт 21:$2
 r:"^(10:(\d{2}) PM)\sThursday*"=Чт 22:$2
 r:"^(11:(\d{2}) PM)\sThursday*"=Чт 23:$2
 r:"^(12:(\d{2}) AM)\sThursday*"=Чт 00:$2
-r:"^(1:(\d{2}) AM)\sFriday*"=Пт 01:$2
-r:"^(2:(\d{2}) AM)\sFriday*"=Пт 02:$2
-r:"^(3:(\d{2}) AM)\sFriday*"=Пт 03:$2
-r:"^(4:(\d{2}) AM)\sFriday*"=Пт 04:$2
-r:"^(5:(\d{2}) AM)\sFriday*"=Пт 05:$2
-r:"^(6:(\d{2}) AM)\sFriday*"=Пт 06:$2
-r:"^(7:(\d{2}) AM)\sFriday*"=Пт 07:$2
-r:"^(8:(\d{2}) AM)\sFriday*"=Пт 08:$2
-r:"^(9:(\d{2}) AM)\sFriday*"=Пт 09:$2
+r:"^(1:(\d{2}) AM)\sFriday*"=Пт 1:$2
+r:"^(2:(\d{2}) AM)\sFriday*"=Пт 2:$2
+r:"^(3:(\d{2}) AM)\sFriday*"=Пт 3:$2
+r:"^(4:(\d{2}) AM)\sFriday*"=Пт 4:$2
+r:"^(5:(\d{2}) AM)\sFriday*"=Пт 5:$2
+r:"^(6:(\d{2}) AM)\sFriday*"=Пт 6:$2
+r:"^(7:(\d{2}) AM)\sFriday*"=Пт 7:$2
+r:"^(8:(\d{2}) AM)\sFriday*"=Пт 8:$2
+r:"^(9:(\d{2}) AM)\sFriday*"=Пт 9:$2
 r:"^(10:(\d{2}) AM)\sFriday*"=Пт 10:$2
 r:"^(11:(\d{2}) AM)\sFriday*"=Пт 11:$2
 r:"^(12:(\d{2}) PM)\sFriday*"=Пт 12:$2
@@ -1040,15 +1042,15 @@ r:"^(9:(\d{2}) PM)\sFriday*"=Пт 21:$2
 r:"^(10:(\d{2}) PM)\sFriday*"=Пт 22:$2
 r:"^(11:(\d{2}) PM)\sFriday*"=Пт 23:$2
 r:"^(12:(\d{2}) AM)\sFriday*"=Пт 00:$2
-r:"^(1:(\d{2}) AM)\sSaturday*"=Сб 01:$2
-r:"^(2:(\d{2}) AM)\sSaturday*"=Сб 02:$2
-r:"^(3:(\d{2}) AM)\sSaturday*"=Сб 03:$2
-r:"^(4:(\d{2}) AM)\sSaturday*"=Сб 04:$2
-r:"^(5:(\d{2}) AM)\sSaturday*"=Сб 05:$2
-r:"^(6:(\d{2}) AM)\sSaturday*"=Сб 06:$2
-r:"^(7:(\d{2}) AM)\sSaturday*"=Сб 07:$2
-r:"^(8:(\d{2}) AM)\sSaturday*"=Сб 08:$2
-r:"^(9:(\d{2}) AM)\sSaturday*"=Сб 09:$2
+r:"^(1:(\d{2}) AM)\sSaturday*"=Сб 1:$2
+r:"^(2:(\d{2}) AM)\sSaturday*"=Сб 2:$2
+r:"^(3:(\d{2}) AM)\sSaturday*"=Сб 3:$2
+r:"^(4:(\d{2}) AM)\sSaturday*"=Сб 4:$2
+r:"^(5:(\d{2}) AM)\sSaturday*"=Сб 5:$2
+r:"^(6:(\d{2}) AM)\sSaturday*"=Сб 6:$2
+r:"^(7:(\d{2}) AM)\sSaturday*"=Сб 7:$2
+r:"^(8:(\d{2}) AM)\sSaturday*"=Сб 8:$2
+r:"^(9:(\d{2}) AM)\sSaturday*"=Сб 9:$2
 r:"^(10:(\d{2}) AM)\sSaturday*"=Сб 10:$2
 r:"^(11:(\d{2}) AM)\sSaturday*"=Сб 11:$2
 r:"^(12:(\d{2}) PM)\sSaturday*"=Сб 12:$2
@@ -1064,15 +1066,15 @@ r:"^(9:(\d{2}) PM)\sSaturday*"=Сб 21:$2
 r:"^(10:(\d{2}) PM)\sSaturday*"=Сб 22:$2
 r:"^(11:(\d{2}) PM)\sSaturday*"=Сб 23:$2
 r:"^(12:(\d{2}) AM)\sSaturday*"=Сб 00:$2
-r:"^(1:(\d{2}) AM)\sSunday*"=Вс 01:$2
-r:"^(2:(\d{2}) AM)\sSunday*"=Вс 02:$2
-r:"^(3:(\d{2}) AM)\sSunday*"=Вс 03:$2
-r:"^(4:(\d{2}) AM)\sSunday*"=Вс 04:$2
-r:"^(5:(\d{2}) AM)\sSunday*"=Вс 05:$2
-r:"^(6:(\d{2}) AM)\sSunday*"=Вс 06:$2
-r:"^(7:(\d{2}) AM)\sSunday*"=Вс 07:$2
-r:"^(8:(\d{2}) AM)\sSunday*"=Вс 08:$2
-r:"^(9:(\d{2}) AM)\sSunday*"=Вс 09:$2
+r:"^(1:(\d{2}) AM)\sSunday*"=Вс 1:$2
+r:"^(2:(\d{2}) AM)\sSunday*"=Вс 2:$2
+r:"^(3:(\d{2}) AM)\sSunday*"=Вс 3:$2
+r:"^(4:(\d{2}) AM)\sSunday*"=Вс 4:$2
+r:"^(5:(\d{2}) AM)\sSunday*"=Вс 5:$2
+r:"^(6:(\d{2}) AM)\sSunday*"=Вс 6:$2
+r:"^(7:(\d{2}) AM)\sSunday*"=Вс 7:$2
+r:"^(8:(\d{2}) AM)\sSunday*"=Вс 8:$2
+r:"^(9:(\d{2}) AM)\sSunday*"=Вс 9:$2
 r:"^(10:(\d{2}) AM)\sSunday*"=Вс 10:$2
 r:"^(11:(\d{2}) AM)\sSunday*"=Вс 11:$2
 r:"^(12:(\d{2}) PM)\sSunday*"=Вс 12:$2
@@ -1116,6 +1118,7 @@ sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</col
 
 Nvm=Пох
 nvm=пох
+Nvm dog=Пох бро
 Don't worry about it=Забей
 TOO LONG!! Nevermind=ДООЛГО!! Похуй уже
 Forget it!=Забудь!
@@ -1142,6 +1145,7 @@ Sure thing=Конечно
 [Counter-offer]=[Встречное предложение]
 [Schedule Deal]=[Назначить сделку]
 Nevermind=Неважно
+No, not right now=Не, не сейчас
 Not right now=Не сейчас
 Not right now broskies=Не сейчас братан
 
@@ -1180,15 +1184,15 @@ Select Deal Time=Выбери время сделки
 You can complete the deal any time within the window=Сделку можно завершить в любое время в выбранном промежутке
 Current Time=Текущее время
 
-r:"^(1:(\d{2}) AM)"=01:$2
-r:"^(2:(\d{2}) AM)"=02:$2
-r:"^(3:(\d{2}) AM)"=03:$2
-r:"^(4:(\d{2}) AM)"=04:$2
-r:"^(5:(\d{2}) AM)"=05:$2
-r:"^(6:(\d{2}) AM)"=06:$2
-r:"^(7:(\d{2}) AM)"=07:$2
-r:"^(8:(\d{2}) AM)"=08:$2
-r:"^(9:(\d{2}) AM)"=09:$2
+r:"^(1:(\d{2}) AM)"=1:$2
+r:"^(2:(\d{2}) AM)"=2:$2
+r:"^(3:(\d{2}) AM)"=3:$2
+r:"^(4:(\d{2}) AM)"=4:$2
+r:"^(5:(\d{2}) AM)"=5:$2
+r:"^(6:(\d{2}) AM)"=6:$2
+r:"^(7:(\d{2}) AM)"=7:$2
+r:"^(8:(\d{2}) AM)"=8:$2
+r:"^(9:(\d{2}) AM)"=9:$2
 r:"^(10:(\d{2}) AM)"=10:$2
 r:"^(11:(\d{2}) AM)"=11:$2
 r:"^(12:(\d{2}) PM)"=12:$2
@@ -1417,8 +1421,8 @@ Weed Seeds=Семена марихуаны
 
 Active Deliveries=Активные доставки
 There are no active deliveries=Активных доставок нет
-Item Total=За предметы
-Delivery Fee=за Доставку
+Item Total=За вещи
+Delivery Fee=За доставку
 Destination=Пункт
 Loading Dock=Зона выгрузки
 Select a destination=Выбери пункт назначения
@@ -1426,6 +1430,7 @@ Selected destination has no loading docks=У выбранного пункта �
 Select a loading dock=Выбери зону выгрузки
 Delivery already in progress=Доставка уже в пути
 Arrived=Прибыло
+Waiting=Ждёт
 sr:"^(.+)\s\[(\d+)\]$"=$1 [$2]
 r:"^(\d+)h (\d+)m$"=$1ч $2м
 r:"^(\d+)h$"=$1ч
@@ -1451,7 +1456,7 @@ There is a <color\=#88CBFF>map</color> on your phone. Press <color\=#88CBFF>M</c
 There is a <color\=#88CBFF>map</color> on your phone. Press <color\=#88CBFF>Tab</color> to quickly open it.=В телефоне есть <color\=#88CBFF>карта.</color>\nНажми <color\=#88CBFF>Tab</color>, чтобы быстро её открыть.
 There are two types of currency: <color\=#46CB4F>cash</color> and <color\=#88CBFF>online balance</color>. Customers pay with cash, but most legal shops only accept card.=<size\=14>Существует два типа валюты: <color\=#46CB4F>наличка</color> и <color\=#88CBFF>онлайн баланс</color>. Клиенты расплачиваются наличными, но большинство легальных магазинов принимают только карты.</size>
 Visit an <color\=#88CBFF>ATM</color> to deposit or withdraw cash.=Посети <color\=#88CBFF>банкомат</color>, чтобы внести или снять наличные.
-There is a <color\=#F86266>mandatory curfew</color> between 9PM and 5AM. Police will <color\=#F86266>arrest</color> you if you're seen outside.=Тут действует <color\=#F86266>обязательный комендантский час</color> с 21:00 до 05:00. Полиция <color\=#F86266>арестует</color> тебя, если увидит на улице.
+There is a <color\=#F86266>mandatory curfew</color> between 9PM and 5AM. Police will <color\=#F86266>arrest</color> you if you're seen outside.=Тут действует <color\=#F86266>обязательный комендантский час</color> с 21:00 до 5:00. Полиция <color\=#F86266>арестует</color> тебя, если увидит на улице.
 Dead drops take time to fulfill, depending on the size of the order. The supplier will <color\=#88CBFF>message you</color> when it's ready.=От размера заказа зависит и время размещения закладки. Поставщик <color\=#88CBFF>сообщит</color> о готовности.
 Use the <color\=#88CBFF>product manager app</color> on your phone to list products for sale.=<size\=15>Используй <color\=#88CBFF>приложение 'Продукты'</color> на телефоне, чтобы выставить товар на продажу.</size>
 The purple area indicates the <color\=#88CBFF>approximate area</color> of the customer.=Фиолетовая зона показывает <color\=#88CBFF>примерное местоположение</color> клиента.
@@ -1986,7 +1991,7 @@ Already contains Fertilizer=Удобрение уже добавлено
 
 Bed=Кровать
 A cozy single bed to slumber in.=Комфортная одноместная кровать.
-It is 4AM - go to sleep to progress to tomorrow=Сейчас 04:00 - поспи, чтобы наступило завтра
+It is 4AM - go to sleep to progress to tomorrow=Сейчас 4:00 - поспи, чтобы наступило завтра
 Open briefcase=Открыть
 Sleep=Спать
 Waking up at=Пробуждение
@@ -2210,6 +2215,7 @@ Combine leaves and gasoline in cauldron=Смешай листья и бензи�
 Start cauldron=Включи котёл
 
 Baseball Bat=Бита
+Pick up Baseball Bat=Поднять биту
 Metal bat made for whacking baseballs, but also works pretty well as a blunt weapon.=Металлическая бита - и для бейсбола, и по башке норм.
 
 Frying Pan=Сковородка
@@ -2280,6 +2286,7 @@ Baron=Барон
 Kingpin=Большой Босс
 r:"^Street Rat ([IVX]+)$"=Уличная Крыса $1
 r:"^Hoodlum ([IVX]+)$"=Гопник $1
+HOODLUM I=ГОПНИК I
 r:"^Peddler ([IVX]+)$"=Мелкий Барыга $1
 r:"^Hustler ([IVX]+)$"=Делец $1
 r:"^Hustler (.+)$"=Делец $1
@@ -2348,6 +2355,8 @@ Reduce cartel influence in Docks to \n\n\nto unlock this region=Снизь вл�
 Reduce cartel influence in Suburbia to\n\n\nto unlock this region=Снизь влияние картеля в Пригородном районе до \n\n\n чтобы открыть этот район
 Reduce cartel influence in Uptown to \n\n\nto unlock this region=Снизь влияние картеля в Верхнем районе до \n\n\n чтобы открыть этот район
 
+Reach rank    \n\n\nto unlock this region=Достигни ранга\n\n\n\nчтобы разблокировать этот район
+
 Cartel influence in Northtown=Влияние картеля в Северном районе
 Cartel influence in Westville=Влияние картеля в Западном районе
 Cartel influence in Downtown=Влияние картеля в Центральном районе
@@ -2397,7 +2406,9 @@ Thank you.=Спасибо.
 The officer will search your inventory from <color\=#62BDFF>left to right</color>.\n\n<color\=#62BDFF>Click and hold</color> an item to <color\=#62BDFF>conceal</color> it. You can only conceal one item at a time.=Коп будет проверять твой инвентарь слева направо.\n\n<color\=#62BDFF>Нажми и удерживай</color> предмет, чтобы <color\=#62BDFF>скрыть</color> его. Скрыть можно только один предмет за раз.
 CONTINUE=ПРОДОЛЖИТЬ
 Police curfew starting soon=Комендантский час скоро начнётся
-Police curfew in effect until 5AM=Комендантский час до утра
+Police curfew in effect until 5AM=Комендантский час до 5:00
+CURFEW TONIGHT\n9PM - 5AM=КОМЕНДАТСКИЙ ЧАС\n21:00 - 5:00.
+CURFEW ACTIVE\n UNTIL 5AM=КОМЕНДАТСКИЙ ЧАС ДО 5:00.
 
 r:"^\$(.+?) fine \(\$(.+?) paid - insufficient cash\)$"=$$$1 штраф ($$$2 уплачено - не было налички)
 r:"^\$(.+?) fine \(paid in cash\)$"=$$$1 штраф (выплачено наличкой)
@@ -2640,6 +2651,7 @@ r:"^You owe Fungal Phil <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert 
 r:"^You owe Salvador Moreno <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt$"=Ты должен Сальвадору Морено <color\=#54E717>$1$</color>. Положи наличку, чтобы погасить долг
 r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now paid off\.$"=Получены твои $$${1} наличными. Твой долг теперь оплачен.
 r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{1,3}(?:,\d{3})*)$"=Получены от тебя $$${1} налом. Твой долг теперь $$${2}
+When you're ready please deposit <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\ into my stash box - your debt is still unpaid.=Когда будешь готов, пожалуйста, положи <color\=#54E717>$1$</color> в мой тайник - ты мне должен.
 
 We've been working together for a while now, and you've proven to be quite reliable. =Мы уже давно работаем вместе, и ты показал себя надёжным человеком.
 If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.=Если тебе нужно заказать больше припасов, можно взять и встретиться лично. Просто отправь мне сообщение.
@@ -2714,10 +2726,10 @@ Stop Arrow=Остановить стрелку
 
 ##-деньги за мусор-##
 
-Open Hatch=Открой Крышку
-Insert Trash=Засунь Мусор
-Press to Start=Нажми для Старта
-Thank you=Спасиб
+Open Hatch=Открой крышку
+Insert Trash=Засунь мусор
+Press to Start=Нажми
+Thank you=Спс
 Collect cash=Забрать
 
 
@@ -2732,7 +2744,7 @@ Tools=Инстр.
 Lights=Свет
 Cart=Корзина
 Add to Cart=В корзину
-Quantity=Количество
+Quantity=Кол-во
 Total:=Итого:
 r:Total: <color\=#5AB95A>(.*)=Всего: <color\=#5AB95A>$1
 Purchase=Купить
@@ -4311,7 +4323,7 @@ Daily wage:=З/п в день:
 ##-ломбард-##
 
 Howdy, buddy. You need somethin'?=Привет, пацан. Надо чё-нить?
-I'd like to sell something=Хочу продать что-нибудь
+I'd like to pawn something=Хочу заложить что-нибудь
 Pawn Shop=Ломбард
 Insert items for appraisal (legal items only)=Вставь предметы для оценки (только легальные)
 EXIT=ВЫХОД
@@ -4406,6 +4418,7 @@ Assign to cleaner=Назначить уборщику
 r:Assign to cleaner (.*)\/(.*)=Назначить уборщику $1/$2
 Trash Cans=мусорки
 
+1x Botanist=Садовод
 Learn how to manage botanists.=Узнай, как управлять садоводами
 Use the management clipboard to assign the botanist to a locker=Назначь садоводу шкафчик с помощью планшета управления
 Assign a supplies source to the botanist=Назначь садоводу источник расходников
@@ -4414,7 +4427,8 @@ Set the pot/grow tent destination=Назначь садоводу пункт н�
 Place cash in the botanist's locker=Положи деньги садоводу в шкафчик
 Manage Botanist=Управлять садоводом
 Supplies=Расходники
-r:Assigned \((\d+\/\d+)\)=Назначенно ($1)
+r:Assigned \((\d+\/\d+)\)=Назначено ($1)
+Assigned=Назначено
 Assign Supplies Source=Назначь источник расходников
 Assign to botanist=Назначь садоводу
 r:Assign to botanist (.*)\/(.*)=Назначь садоводу $1/$2
