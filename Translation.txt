@@ -2679,7 +2679,7 @@ We've been working together for a while now, and you've proven to be quite relia
 If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.=Если тебе нужно заказать больше припасов, можно взять и встретиться лично. Просто отправь мне сообщение.
 You've been a good customer - I'll start doing in-person meetings with you now if you want to buy larger quantities.=Ты был хорошим клиентом - теперь я могу встречаться лично, если хочешь закупаться крупно.
 Send me a message when you want to meet.=Напиши мне, когда захочешь встретиться.
-Heyo - if you're looking to streamline, I'm now doing deliveries. Use your deliveries app to place an order and I'll get it to you ASAP.=Хэйо - если хочешь упростить свою жизнь, я теперь доставляю. Оформи через приложение с доставками, и я доставлю их очень БЫСТРО.
+Heyo - if you're looking to streamline, I'm now doing deliveries. Use your deliveries app to place an order and I'll get it to you ASAP.=Хэйо - если хочешь упростить жизнь, оформи через приложение с доставками заказ и я доставлю его ОЧЕНЬ БЫСТРО.
 If you're looking to get real serious, I can deliver seeds straight to any of your properties. Just use your deliveries app to place an order, and I'll get it to you in no time.=Если хочешь всё по-серьёзке, могу доставлять семена прямо на твои участки. Просто используй приложение с доставками для заказа, и я всё привезу тебе мигом.
 Agreed. I'll be under the west bridge for the next 6 hours.=Договор. Я буду под западным мостом в течение 6 часов.
 Agreed. I'll be next to the mayor's house for the next 6 hours.=По рукам. Буду рядом с домом мэра ближайшие 6 часов.
