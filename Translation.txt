@@ -486,6 +486,7 @@ Do you know where I can get a sewer key?=Ты знаешь где достать
 Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>northtown</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>северном районе</color>...
 Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>westville</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>западном районе</color>...
 Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>downtown</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>центральном районе</color>...
+Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>docks</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>портовом районе</color>...
 Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>suburbia</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>пригороде</color>...
 Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>uptown</color> I think...=Хмм... Кажется, Оскар видел где-то один в <color\=#76C9FF>верхнем районе</color>...
 Oh! and I remember hearing <color\=#76C9FF>that shirtless guy with the bucket hat</color> has one! Sorry, Oscar isn't very good with names. Hope this helps.=О! Вспомнил! Он есть у <color\=#76C9FF>того пареня без рубашки и с ведром на голове</color> Прости, Оскар плохо запоминает имена. Надеюсь, помог.
@@ -600,8 +601,8 @@ Learn how to grow magic mushrooms.=Узнай как выращивать маг
 Purchase a grain bag from Fungal Phil=Купи зерно у Грибного Фила
 • Purchase a spore syringe from Fungal Phil=• Купи шприц у Грибного Фила
 Purchase a spore syringe from Fungal Phil=Купи шприц у Грибного Фила
-• Purchase a mushroom spawn station from Oscar=• Купи станцию для инокуляции
-Purchase a mushroom spawn station from Oscar=Купи станцию для инокуляции
+• Purchase a mushroom spawn station from Oscar=• Купи станцию для инокуляции у Оскара
+Purchase a mushroom spawn station from Oscar=Купи станцию для инокуляции у Оскара
 Use the mushroom spawn station to inocculate a grain bag=Используй станцию для инокуляции чтобы инокулировать зерно.
 Mix the shroom spawn into a mushroom bed=Смешай зерновой мицелий и грибной субстрат в грибной грядке.
 Use the AC unit to cool the mushroom bed=Охлади зону около грядки с помощью кондиционера
@@ -1504,6 +1505,7 @@ r:(\d+)% chance of success=$1% шанс успеха
 
 One sec...=Секу...
 Hmm...=Хмм...
+Hmm?=Хмм?
 Give me a sec...=Дай секунду...
 Let me think...=Дай подумать...
 Let me try...=Дай затещу...
@@ -1513,6 +1515,7 @@ Damn, that's pretty nice. You'll hear from me soon=Да, это действит
 Damn, that's some good shit. You'll hear from me soon=Ебать, круто. Ты меня ещё увидишь
 Oh very nice! You'll be hearing from me=Очень даже ничего! Я тебе напишу
 That's good stuff. You'll hear from me=Это хороший товар. Я напишу
+Oh shit that's good stuff homie, I'll text you=Сука, бро, это прекрасно. Я напишу тебе
 Mmm not bad... I'll mesaage you=Ммм не плохо... Я напишу
 Oh damn, I need me more of that. I'll text you=Боже, мне нужно больше такого. Я тебе напишу
 Oooh yeah not bad! I'll text you=Ооо да! Я тебе напишу
@@ -1529,23 +1532,25 @@ Goddamn, that's nice!! I'll message you later=Ахуеть, как же крут
 New Customer Unlocked!=Новый клиент разблокирован!
 New Customers Unlocked!=Новые клиенты разблокированы!
 
-r:UNLOCK ONE OF (.*)'S CONNECTIONS FIRST=СНАЧАЛА ЗАРУЧИСЬ СВЯЗЯМИ
+r:UNLOCK ONE OF (.*)'S CONNECTIONS=СНАЧАЛА ЗАРУЧИСЬ СВЯЗЯМИ
 
-UNLOCK ONE OF BENJI'S CONNECTIONS FIRST=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ БЕНДЖИ
+UNLOCK ONE OF BENJI'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ БЕНДЖИ
 ONE OF BENJI'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ БЕНДЖИ
-UNLOCK ONE OF MOLLY'S CONNECTIONS FIRST=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ МОЛЛИ
+UNLOCK ONE OF MOLLY'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ МОЛЛИ
 ONE OF MOLLY'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ МОЛЛИ
-UNLOCK ONE OF BRAD'S CONNECTIONS FIRST=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ БРЭДА
+UNLOCK ONE OF BRAD'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ БРЭДА
 ONE OF BRAD'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ БРЭДА
-UNLOCK ONE OF JANE'S CONNECTIONS FIRST=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ ДЖЕЙН
+UNLOCK ONE OF JANE'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ ДЖЕЙН
 ONE OF JANE'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ ДЖЕЙН
-UNLOCK ONE OF WEI'S CONNECTIONS FIRST=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ ВЭЯ
+UNLOCK ONE OF WEI'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ ВЭЯ
 ONE OF WEI'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ ВЭЯ
-UNLOCK ONE OF LEO'S CONNECTIONS FIRST=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ ЛЕО
+UNLOCK ONE OF LEO'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ ЛЕО
 ONE OF LEO'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ ЛЕО
 
 You ready?=Ты готов?
+You finally ready?=Ты наконец-то готов?
 Ready?=Готов?
+About time...=Ну наконец‑то…
 Ready when you are=Жду готовности
 You got the stuff?=Ты принёс?
 Alright come on=Ну давай быстрее
@@ -1595,11 +1600,13 @@ r:\+\$(\d{1,3}(?:,\d{3})*)\sBonus=\+\$1 Бонус
 You wanna buy something?=Хочешь что-нибудь купить?
 
 No!=Нет!
+Noooo!=Нееет!
 No thanks=Не пасиб
 No thanks bro=Не пасиб бро
 No thanks brody=Не пасиб братиш
 Nope=Нет
 I'm good thanks=Я в норме
+I'm good thanks man=Бро, я в норме
 I'm good=Мне норм
 Gross!=Отстой!
 Not interested, sorry=Сорян, не интересно
@@ -1612,6 +1619,7 @@ I don't really like that...=Не люблю такое...
 I don't think so...=Я так не думаю...
 Eh... not what I'm after=Эм... не то, что я ожидал
 Ew, no.=Эм, нет.
+Ew. Get out of here!=Эм. Пошёл нахуй!
 Are you joking?=Ты прикалываешься?
 Not what I like=Не люблю такое
 
@@ -1623,10 +1631,17 @@ Dude... this ain't what I asked for=Чувак... это не то
 
 CUSTOMER RECENTLY COMPLETED A DEAL=КЛИЕНТ НЕДАВНО СОВЕРШИЛ СДЕЛКУ
 CUSTOMER ALREADY HAS A PENDING OFFER=КЛИЕНТ УЖЕ ОТПРАВИЛ ТЕБЕ ПРЕДЛОЖЕНИЕ
-CUSTOMER IS WAITING FOR A DEALER=КЛИЕНТ ЖДЁТ ДИЛЕРА
-THIS CUSTOMER IS WAITING FOR ONE OF YOUR DEALERS.=ЭТОТ КЛИЕНТ ЖДЁТ ОДНОГО ИЗ ТВОИХ ДИЛЕРОВ
+
+WAITING FOR BENJI COLEMAN=ЖДЁТ БЕНДЖИ КУЛМАНА
+WAITING FOR MOLLY PRESLEY=ЖДЁТ МОЛЛИ ПРЕСЛИ
+WAITING FOR BRAD CROSBY=ЖДЁТ БРЭДА КРОСБИ
+WAITING FOR JANE LUCERO=ЖДЁТ ДЖЕЙН ЛЮСЕРО
+WAITING FOR WEI LONG=ЖДЁТ ВЭЯ ЛОНГА
+WAITING FOR LEO RIVERS=ЖДЁТ ЛЕО РИВЕРА
+WAITING FOR A RIVAL DEALER.=ЖДЁТ ДИЛЕРА КОНКУРЕНТА
+
 ALREADY RECENTLY OFFERED=НЕДАВНО ПРЕДЛАГАЛОСЬ
-SAMPLE ALREADY OFFERED TODAY=СЕГОДНЯ ПРЕДЛАГАЛОСЬ
+ALREADY OFFERED TODAY=СЕГОДНЯ ПРЕДЛАГАЛОСЬ
 
 [Complete Deal]=[Сделка]
 Complete Deal=Сделка
@@ -1711,6 +1726,7 @@ Huh?=Что?
 The hell?=Конченый?
 Goddamn!=Боже!
 Goddammit!!=Иди нахуй!!
+Goddamn it!!=Иди ты нахуй!!
 Oh shit!=Да блять!
 Shit!=Блять
 SHIT!=БЛЯТЬ!
@@ -1836,6 +1852,7 @@ Meth (Liquid)=Жидкий мет
 Methamphetamine in liquid form. Use a drying oven to bake into solid form.=Метамфетамин в жидкой форме. Используй лабораторную печь, чтобы превратить его в твёрдую.
 
 Meth=Мет
+Meth (Unpackaged)=Мет (Неупакованный)
 Poor Methamphetamine=Ужасный мет
 Standard Methamphetamine=Обычный мет
 Premium Methamphetamine=Элитный мет
@@ -2200,7 +2217,7 @@ Start oven=Включи печь
 Ready to collect product=Готово к сбору
 COLLECT=СОБРАТЬ
 Use hammer to break up the product=Разбей продукт молотком
-COOK=ГОТОВКА
+COOK=НАЧАТЬ
 Ingredient is not cookable=Ингредиент нельзя приготовить
 Not enough space in output slot=В выходном слоте нет места
 Place items onto tray=Помести предметы на поднос
@@ -2387,11 +2404,13 @@ Body Search=Обыск
 Click and hold items to conceal=Нажми и удерживай предмет чтобы спрятать
 Speed Up Search=Ускорить обыск
 You are being searched=Это обыск
+Stand still. You are being searched=Не двигаться, это обыск
 Come here, you are being searched=Стоять на месте, это обыск
 Hold still while I search you=Стоять спокойно пока я обыскиваю
 Stand still while you are searched=Стоять смирно пока обыскиваю
 No issues.=Чисто.
 Wait! You're under arrest=Стоять! Ты арестован
+Hold still - you are under arrest!=Ни с места - ты арестован!
 
 
 If you want to drive through here, I'll need to search your vehicle.=Если хочешь проехать, мне нужно осмотреть твою машину.  
@@ -2884,8 +2903,6 @@ BETTER LUCK NEXT TIME...=ПОВЕЗЁТ В СЛЕДУЮЩИЙ РАЗ...
 BUST!=ПЕРЕБОР!
 PUSH=НИЧЬЯ
 Win!=Выигрыш!
-WIN!=ВЫИГРЫШ!
-BIG WIN!=БОЛЬШОЙ ВЫИГРЫШ!
 
 Play Ride the Bus=Играть в карточный автобус
 Ride the Bus=Карточный автобус
@@ -4521,6 +4538,8 @@ Talk to Oscar=Поговорить с Оскаром
 Talk to Stan=Поговорить со Стэном
 Talk to Igor=Поговорить с Игорем
 Talk to Manny=Поговорить с Мэнни
+Talk to Benzies Dealer=Поговорить с дилером Бензисов
+Talk to Benzies Goon=Поговорить с вандалом Бензисов
 
 ##-поставщики-##
 
@@ -4565,7 +4584,6 @@ Leo Rivers=Лео Риверс
 Talk to Leo=Поговорить с Лео
 Leo=Лео
 Leo Rivers<color\=#A0A0A0FF> (Uptown)</color>=Лео Риверс <color\=#A0A0A0FF>(Верхний)</color>
-
 
 ##-клиенты-##
 
