@@ -1553,8 +1553,8 @@ Ready?=Готов?
 About time...=Ну наконец‑то…
 Ready when you are=Жду готовности
 You got the stuff?=Ты принёс?
-Alright come on=Ну давай быстрее
-Come on lets go=Ну давай
+Alright come on=Ну, давай быстрее
+Come on lets go=Ну, давай
 Lets get this over with=Давай покончим с этим
 Lets get this party started=Да начнётся веселье
 Come on, let's do do this=Ну же, давай сделаем это
@@ -2611,6 +2611,9 @@ Western wharf=Западный причал
 on the west wharf=на западном причале
 Wharf near french restaurant=Причал возле французского ресторана
 on the wharf near the french restaurant=на причале напротив французского ресторана
+
+sr:"Hey boss, I've heard there's a deal going down in (.+), (.+). Might be worth checking out."=Привет, я слышала что у Бензисов сделка. $1 район, $2. Думаю, стоит проверить.
+sr:"Great, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Супер, встречаемся <b>$1</b> утром.
 
 ##--ТОЧКИ ИНТЕРЕСА--##
 
@@ -4480,7 +4483,9 @@ Add New=Добавить
 
 Learn how to manage chemists.=Узнай как управлять химиками.
 Chemist=Химик
+Manage Chemist=Управлять химиком
 Use the management clipboard to assign the chemist to a locker=Назначь химику шкафчик с помощью планшета управления
+Assign a station to the chemist=Назначь станцию химику
 Place cash in the chemist's locker=Положи деньги химику в шкафчик
 
 
