@@ -597,14 +597,14 @@ If you're not working with us, then you're against us. You're going to regret co
 
 Vibin' on the 'Cybin=Кайфую на психоделике
 Learn how to grow magic mushrooms.=Узнай как выращивать магические грибы.
-• Purchase a grain bag from Fungal Phil=• Купи пакет с зерном у Грибного Фила
+• Purchase a grain bag from Fungal Phil=• Купи зерно у Грибного Фила
 Purchase a grain bag from Fungal Phil=Купи зерно у Грибного Фила
 • Purchase a spore syringe from Fungal Phil=• Купи шприц у Грибного Фила
 Purchase a spore syringe from Fungal Phil=Купи шприц у Грибного Фила
 • Purchase a mushroom spawn station from Oscar=• Купи станцию для инокуляции у Оскара
 Purchase a mushroom spawn station from Oscar=Купи станцию для инокуляции у Оскара
-Use the mushroom spawn station to inocculate a grain bag=Используй станцию для инокуляции чтобы инокулировать зерно.
-Mix the shroom spawn into a mushroom bed=Смешай зерновой мицелий и грибной субстрат в грибной грядке.
+Use the mushroom spawn station to inocculate a grain bag=Используй станцию для инокуляции чтобы инокулировать зерно
+Mix the shroom spawn into a mushroom bed=Смешай зерновой мицелий и грибной субстрат в грибной грядке
 Use the AC unit to cool the mushroom bed=Охлади зону около грядки с помощью кондиционера
 Purchase an AC unit from a hardware store=Купи кондиционер в хозтоварах
 Harvest the shrooms once fully grown=Собери грибы когда они вырастут
@@ -755,17 +755,17 @@ Thanks. Hey, my friend Brad Crosby is a dealer and can help you move your produc
 Cheers. My friend Brad Crosby is a dealer and might be able to help you move your stuff. You should go speak to them.=Спасибо. Мой друг Брэд Кросби - дилер, он может помочь тебе с продажами. Тебе стоит с ним поговорить.
 Thank you. You should go talk to Brad Crosby - they might be able to help you move your stuff.=Спасибо тебе. Поговори с Брэдом Кросби - он может помочь толкать твой товар.
 
-Thanks. Hey, my friend Jane Lucero is a dealer and can help you move your product. You should go speak to them.=Спасибо. Моя подруга Джейн Люсьеро - дилер, может помочь с толканием твоего товара. Тебе стоит поговорить с ней.
-Cheers. My friend Jane Lucero is a dealer and might be able to help you move your stuff. You should go speak to them.=Ваше здоровье. Моя подруга Джейн Люсьеро - дилер, она может помочь тебе с продажами. Тебе стоит с ней поговорить.
-Thank you. You should go talk to Jane Lucero - they might be able to help you move your stuff.=Спасибо тебе. Поговори с Джейн Люсьеро - она может помочь толкать твой товар.
+Thanks. Hey, my friend Jane Lucero is a dealer and can help you move your product. You should go speak to them.=Спасибо. Моя подруга Джейн Люсеро - дилер, может помочь с толканием твоего товара. Тебе стоит поговорить с ней.
+Cheers. My friend Jane Lucero is a dealer and might be able to help you move your stuff. You should go speak to them.=Ваше здоровье. Моя подруга Джейн Люсеро - дилер, она может помочь тебе с продажами. Тебе стоит с ней поговорить.
+Thank you. You should go talk to Jane Lucero - they might be able to help you move your stuff.=Спасибо тебе. Поговори с Джейн Люсеро - она может помочь толкать твой товар.
 
 Thanks. Hey, my friend Wei Long is a dealer and can help you move your product. You should go speak to them.=Спасибо. Мой друг Вэй Лонг - дилер, может помочь с толканием твоего товара. Тебе стоит поговорить с ним.
 Cheers. My friend Wei Long is a dealer and might be able to help you move your stuff. You should go speak to them.=Спасибо. Мой друг Вэй Лонг - дилер, он может помочь тебе с продажами. Тебе стоит с ним поговорить.
 Thank you. You should go talk to Wei Long - they might be able to help you move your stuff.=Спасибо тебе. Поговори с Вэй Лонгом - он может помочь толкать твой товар.
 
-Thanks. Hey, my friend Jane Lucero is a dealer and can help you move your product. You should go speak to them.=Спасибо. Моя подруга Джейн Люсьеро - дилер, может помочь с толканием твоего товара. Тебе стоит поговорить с ней.
-Cheers. My friend Jane Lucero is a dealer and might be able to help you move your stuff. You should go speak to them.=Ваше здоровье. Моя подруга Джейн Люсьеро - дилер, она может помочь тебе с продажами. Тебе стоит с ней поговорить.
-Thank you. You should go talk to Jane Lucero - they might be able to help you move your stuff.=Спасибо тебе. Поговори с Джейн Люсьеро - она может помочь толкать твой товар.
+Thanks. Hey, my friend Jane Lucero is a dealer and can help you move your product. You should go speak to them.=Спасибо. Моя подруга Джейн Люсеро - дилер, может помочь с толканием твоего товара. Тебе стоит поговорить с ней.
+Cheers. My friend Jane Lucero is a dealer and might be able to help you move your stuff. You should go speak to them.=Ваше здоровье. Моя подруга Джейн Люсеро - дилер, она может помочь тебе с продажами. Тебе стоит с ней поговорить.
+Thank you. You should go talk to Jane Lucero - they might be able to help you move your stuff.=Спасибо тебе. Поговори с Джейн Люсеро - она может помочь толкать твой товар.
 
 Morning mate, what can I get ya?=Здраствуйте, чем могу помочь?
 I'd like to purchase something=Хочу кое что купить
@@ -1114,7 +1114,7 @@ sr:"Need me (\d+x) (.+)\! I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color
 sr:"Hey, have you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Эй, а есть $1 $2? Заплачу <color\=#46CB4F>$3$</color> за это
 sr:"Hey dog\, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Бро, нужно $1 $2. Плачу <color\=#46CB4F>$3$</color>. По рукам?
 sr:"Ayo dawg\, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Айоу бро, если есть $1 $2 Плачу <color\=#46CB4F>$3$</color> за это. По рукам?
-sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Йо хоуми, можно $1 $2? Я заплачу <color\=#46CB4F>$3$</color>
+sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Йо сладкий, можно $1 $2? Я заплачу <color\=#46CB4F>$3$</color>
 sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. DEAL\?"=Есть $1 $2??? Заплачу <color\=#46CB4F>$3$</color>. ПО РУКАМ?
 
 Nvm=Пох
@@ -1527,6 +1527,7 @@ Not bad... I'll message you=Не плохо... Я напишу
 That's some good shit!! You'll hear from me=Эта параша ничё такая!! Я напишу 
 Not too bad, I'll message you some time=Не так уж и плохо, я как-нибудь напишу
 Goddamn, that's nice!! I'll message you later=Ахуеть, как же круто!! Я потом напишу
+Pretty good. I'll message you soon=Сойдёт, я напишу
 
 
 New Customer Unlocked!=Новый клиент разблокирован!
@@ -1602,6 +1603,7 @@ You wanna buy something?=Хочешь что-нибудь купить?
 No!=Нет!
 Noooo!=Нееет!
 No thanks=Не пасиб
+No thanks...=Нет, спасибо...
 No thanks bro=Не пасиб бро
 No thanks brody=Не пасиб братиш
 Nope=Нет
@@ -1653,7 +1655,7 @@ r:"^(.+) \(Unpackaged\)$"=$1 (Неупакованно)
 r:"^(\d+)% chance of customer accepting$"=$1% вероятность принятия
 You are providing more product than required.=Больше товара, чем требуется.
 You are providing more items than required.=Больше товара, чем требуется.
-sr:"^Deal completed for (.+)$" =Сделка с $1 завершена
+
 Satisfaction=Удовлетворение
 
 Item Splitting=Разделение предметов
@@ -1780,13 +1782,15 @@ An old key used to access the sewers under Hyland Point.=Старый ключ �
 Do you have a sewer key?=У тебя есть ключ от канализации?
 None of your business!=Не твоё дело!
 
-Sewer Key required=Нужен канализационный ключ
+Sewer Key required=Нужен ключ
 Filing Cabinet=Картотечный шкаф
 Metal cabinet for storing documents in.=Металлический шкаф для хранения документов.
 Garbage Throne=Мусорный трон
 It smells as good as it looks!=Он пахнет так же круто как и выглядит!
 Trash Crown=Мусорная корона
 Regal elegance on a budget.=Королевская элегантность по бюджету.
+I want to buy a sewer key access.=Я хочу купить доступ к канализации
+'FRIENDLY' RELATIONSHIP REQUIRED=СНАЧАЛА ПОДРУЖИСЬ С ДЖЕН
 
 ##--наркота--##
 
@@ -1857,7 +1861,7 @@ Poor Methamphetamine=Ужасный мет
 Standard Methamphetamine=Обычный мет
 Premium Methamphetamine=Элитный мет
 
-Grain Bag=Пакет с зерном
+Grain Bag=Зерном
 Bag of steriled grain with an injection port. Inject with mushroom spores to begin the cultivation process.=Пакет со стерильным зерном и портом для инъекций. Введи споры грибов для начала процесса инокуляции.
 
 Spore Syringe=Шприц со спорами
@@ -1904,7 +1908,7 @@ Long-Life Soil=Долговечная почва
 Long-lasting soil that can be used to grow 2 plants before expiring.=Обычная долговечная почва для выращивания двух растений.
 
 Extra Long-Life Soil=Экстрадолговечная почва
-Extra long-lasting soil that can be used to grow 2 plants before expiring.=Обычная экстрадолговечная почва для выращивания трёх растений.
+Extra long-lasting soil that can be used to grow 3 plants before expiring.=Обычная экстрадолговечная почва для выращивания трёх растений.
 
 Watering Can=Лейка
 Holds water.=Хранит воду.
@@ -2005,6 +2009,7 @@ All-natural fertilizer which will increase the quality of your plants.=Полн�
 Apply Fertilizer=Применить удобрение
 r:Cover soil with Fertilizer (.*)=Покрой почву удобрением $1
 Already contains Fertilizer=Удобрение уже добавлено
+Fully grown=Выросло
 
 Bed=Кровать
 A cozy single bed to slumber in.=Комфортная одноместная кровать.
@@ -2405,6 +2410,7 @@ Click and hold items to conceal=Нажми и удерживай предмет 
 Speed Up Search=Ускорить обыск
 You are being searched=Это обыск
 Stand still. You are being searched=Не двигаться, это обыск
+Stand still. You're being searched=Не двигаться, это обыск
 Come here, you are being searched=Стоять на месте, это обыск
 Hold still while I search you=Стоять спокойно пока я обыскиваю
 Stand still while you are searched=Стоять смирно пока обыскиваю
@@ -4383,6 +4389,7 @@ Get over here you cheapskate!=Иди сюда, жмот ебаный!
 Nope.=Неа.
 No can do, buddy.=Нет, парень.
 Nope man=Не бро
+Not gonna happen.=Да никогда.
 Come back when you're serious!=Возвращайся, когда настроишься серьёзно!
 I'm gonna beat your ass!=Я ща тебя выебу нахуй!
 Son of a bitch!=Пидорас!
@@ -4614,395 +4621,461 @@ Talk to Kyle=Поговорить с Кайлом
 Deal for Kyle=Сделка с Кайлом
 Kyle=Кайл
 Kyle Cooley<color\=#A0A0A0FF> (Northtown)</color>=Кайл <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Kyle Cooley=Сделка с Кайлом завершена
 
 Austin Steiner=Остин Штейнер
 Talk to Austin=Поговорить с Остином
 Deal for Austin=Сделка с Остином
 Austin=Остин
 Austin Steiner<color\=#A0A0A0FF> (Northtown)</color>=Остин <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Austin Steiner=Сделка с Остином завершена
 
 Jessi Waters=Джесси Уотерс
 Talk to Jessi=Поговорить с Джесси
 Deal for Jessi=Сделка с Джесси
 Jessi=Джесси
 Jessi Waters<color\=#A0A0A0FF> (Northtown)</color>=Джесси <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Jessi Waters=Сделка с Джесси завершена
 
 Kathy Henderson=Кэтти Хэндерсон
 Talk to Kathy=Поговорить с Кэтти
 Deal for Kathy=Сделка с Кэтти
 Kathy=Кэтти
 Kathy Henderson<color\=#A0A0A0FF> (Northtown)</color>=Кэтти <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Kathy Henderson=Сделка с Кэтти завершена
 
 Mick Lubbin=Мик Люббин
 Talk to Mick=Поговорить с Миком
 Deal for Mick=Сделка с Миком
 Mick=Мик
 Mick Lubbin<color\=#A0A0A0FF> (Northtown)</color>=Мик <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Mick Lubbin=Сделка с Миком завершена
 
 Sam Thompson=Сэм Томпсон
 Talk to Sam=Поговорить с Сэмом
 Deal for Sam=Сделка с Сэмом
 Sam=Сэм
 Sam Thompson<color\=#A0A0A0FF> (Northtown)</color>=Сэм <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Sam Thompson=Сделка с Сэмом завершена
 
 Peter File=Питер Файл
 Talk to Peter=Поговорить с Питером
 Deal for Peter=Сделка с Питером
 Peter=Питер
 Peter File<color\=#A0A0A0FF> (Northtown)</color>=Питер <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Peter File=Сделка с Питером завершена
 
 Donna Martin=Донна Мартин
 Talk to Donna=Поговорить с Донной
 Deal for Donna=Сделка с Донной
 Donna=Донна
 Donna Martin<color\=#A0A0A0FF> (Northtown)</color>=Донна <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Donna Martin=Сделка с Донной завершена
 
 Geraldine Poon=Джеральдин Пун
 Talk to Geraldine=Поговорить с Джерльдином
 Deal for Geraldine=Сделка с Джеральдином
 Geraldine=Джеральдин
 Geraldine Poon<color\=#A0A0A0FF> (Northtown)</color>=Джеральдин <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Geraldine Poon=Сделка с Джеральдином завершена
 
 Chloe Bowers=Хлоя Бауэрс
 Talk to Chloe=Поговорить с Хлоей
 Deal for Chloe=Сделка с Хлоей
 Chloe=Хлоя
 Chloe Bowers<color\=#A0A0A0FF> (Northtown)</color>=Хлоя <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Chloe Bowers=Сделка с Хлоей завершена
 
 Peggy Myers=Пегги Майрс
 Talk to Peggy=Поговорить с Пегги
 Deal for Peggy=Сделка с Пегги
 Peggy=Пэгги
 Peggy Myers<color\=#A0A0A0FF> (Northtown)</color>=Пегги <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Peggy Myers=Сделка с Пегги завершена
 
 Ludwig Meyer=Людвиг Майр
 Talk to Ludwig=Поговорить с Людвигом
 Deal for Ludwig=Сделка с Людвигом
 Ludwig=Людвиг
 Ludwig Meyer<color\=#A0A0A0FF> (Northtown)</color>=Людвиг <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Peggy Myers=Сделка с Пегги завершена
 
 Beth Penn=Бет Пен
 Talk to Beth=Поговорить с Бет
 Deal for Beth=Сделка с Бет
 Beth=Бет
 Beth Penn<color\=#A0A0A0FF> (Northtown)</color>=Бет <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Beth Penn=Сделка с Бет завершена
 
 Mrs. Ming=Мисс Минг
 Talk to Mrs. Ming=Поговорить с Мисс Минг
 Deal for Mrs. Ming=Сделка с Мисс Минг
 Mrs. Ming<color\=#A0A0A0FF> (Northtown)</color>=Минг <color\=#A0A0A0FF>(Северный)</color>
+Deal completed for Mrs. Ming=Сделка с Минг завершена
 
 Trent Sherman=Трент Шерман
 Talk to Trent=Поговорить с Трентом
 Deal for Trent=Сделка с Трентом
 Trent=Трент
 Trent Sherman<color\=#A0A0A0FF> (Westville)</color>=Трент <color\=#A0A0A0FF>(Западный)</color>
+Deal completed for Trent Sherman=Сделка с Трентом завершена
 
 Meg Cooley=Мэг Кулей
 Talk to Meg=Поговорить с Мэг
 Deal for Meg=Сделка с Мэг
 Meg=Мэг
 Meg Cooley<color\=#A0A0A0FF> (Westville)</color>=Мэг <color\=#A0A0A0FF>(Западный)</color>
+Deal completed for Meg Cooley=Сделка с Мэг завершена
 
 Joyce Ball=Джойс Болл
 Talk to Joyce=Поговорить с Джойс
 Deal for Joyce=Сделка с Джойс
 Joyce=Джойс
 Joyce Ball<color\=#A0A0A0FF> (Westville)</color>=Джойс <color\=#A0A0A0FF>(Западный)</color>
+Deal completed for Joyce Ball=Сделка с Джойс завершена
 
 Keith Wagner=Кейт Вагнер
 Talk to Keith=Поговорить с Кейтом
 Deal for Keith=Сделка с Кейтом
 Keith=Кейт
 Keith Wagner<color\=#A0A0A0FF> (Westville)</color>=Кейт <color\=#A0A0A0FF>(Западный)</color>
+Deal completed for Keith Wagner=Сделка с Кейтом завершена
 
 Doris Lubbin=Дорис Люббин
 Talk to Doris=Поговорить с Дорис
 Deal for Doris=Сделка с Дорис
 Doris=Дорис
 Doris Lubbin<color\=#A0A0A0FF> (Westville)</color>=Дорис <color\=#A0A0A0FF>(Западный)</color>
+Deal completed for Doris Lubbin=Сделка с Дорис завершена
 
 Jerry Montero=Джерри Монтеро
 Talk to Jerry=Поговорить с Джерри
 Deal for Jerry=Сделка с Джерри
 Jerry=Джерри
 Jerry Montero<color\=#A0A0A0FF> (Westville)</color>=Джерри <color\=#A0A0A0FF>(Западный)</color>
+Deal completed for Jerry Montero=Сделка с Джерри завершена
 
 Kim Delaney=Ким Делайней
 Talk to Kim=Поговорить с Ким
 Deal for Kim=Сделка с Ким
 Kim=Ким
 Kim Delaney<color\=#A0A0A0FF> (Westville)</color>=Ким <color\=#A0A0A0FF>(Западный)</color>
+Deal completed for Kim Delaney=Сделка с Ким завершена
 
 Dean Webster=Дин Вебстер
 Talk to Dean=Поговорить с Дином
 Deal for Dean=Сделка с Дином
 Dean=Дин
 Dean Webster<color\=#A0A0A0FF> (Westville)</color>=Дин <color\=#A0A0A0FF>(Западный)</color>
+Deal completed for Dean Webster=Сделка с Дином завершена
 
 Charles Rowland=Чарльз Роулэнд
 Talk to Charles=Поговорить с Чарльзом
 Deal for Charles=Сделка с Чарльзом
 Charles=Чарльз
 Charles Rowland<color\=#A0A0A0FF> (Westville)</color>=Чарльз <color\=#A0A0A0FF>(Западный)</color>
+Deal completed for Charles Rowland=Сделка с Чарльзом завершена
 
 George Greene=Джордж Грин
 Talk to George=Поговорить с Джорджем
 Deal for George=Сделка с Джорджем
 George=Джордж
 George Greene<color\=#A0A0A0FF> (Westville)</color>=Джордж <color\=#A0A0A0FF>(Западный)</color>
+Deal completed for George Greene=Сделка с Джорджем завершена
 
 Elizabeth Homley=Элизабет Хомлей
 Talk to Elizabeth=Поговорить с Элизабет
 Deal for Elizabeth=Сделка с Элизабет
 Elizabeth=Элизабет
 Elizabeth Homley<color\=#A0A0A0FF> (Downtown)</color>=Элизабет <color\=#A0A0A0FF>(Центральный)</color>
+Deal completed for George Greene=Сделка с Джорджем завершена
 
 Jennifer Rivera=Дженнифер Ривера
 Talk to Jennifer=Поговорить с Дженнифер
 Deal for Jennifer=Сделка с Дженнифер
 Jennifer=Дженнифер
 Jennifer Rivera<color\=#A0A0A0FF> (Downtown)</color>=Дженнифер <color\=#A0A0A0FF>(Центральный)</color>
+Deal completed for Jennifer Rivera=Сделка с Дженнифер завершена
 
 Kevin Oakley=Кевин Оклей
 Talk to Kevin=Поговорить с Кевином
 Deal for Kevin=Сделка с Кевином
 Kevin=Кевин
 Kevin Oakley<color\=#A0A0A0FF> (Downtown)</color>=Кевин <color\=#A0A0A0FF>(Центральный)</color>
+Deal completed for Kevin Oakley=Сделка с Кевином завершена
 
 Louis Fourier=Луис Фоурер
 Talk to Louis=Поговорить с Луисом
 Deal for Louis=Сделка с Луисом
 Louis=Луис
 Louis Fourier<color\=#A0A0A0FF> (Downtown)</color>=Луис <color\=#A0A0A0FF>(Центральный)</color>
+Deal completed for Louis Fourier=Сделка с Луисом завершена
 
 Lucy Pennington=Люси Пеннингтон
 Talk to Lucy=Поговорить с Люси
 Deal for Lucy=Сделка с Люси
 Lucy=Люси
 Lucy Pennington<color\=#A0A0A0FF> (Downtown)</color>=Люси <color\=#A0A0A0FF>(Центральный)</color>
+Deal completed for Lucy Pennington=Сделка с Люси завершена
 
 Randy Caulfield=Рэнди Коулфилд
 Talk to Randy=Поговорить с Рэнди
 Deal for Randy=Сделка с Рэнди
 Randy=Рэнди
 Randy Caulfield<color\=#A0A0A0FF> (Downtown)</color>=Рэнди <color\=#A0A0A0FF>(Центральный)</color>
+Deal completed for Randy Caulfield=Сделка с Рэнди завершена
 
 Eugene Buckley=Юджин Баклей
 Talk to Eugene=Поговорить с Юджином
 Deal for Eugene=Сделка с Юджином
 Eugene=Юджин
 Eugene Buckley<color\=#A0A0A0FF> (Downtown)</color>=Юджин <color\=#A0A0A0FF>(Центральный)</color>
+Deal completed for Eugene Buckley=Сделка с Юджином завершена
 
 Greg Figgle=Грег Фиггл
 Talk to Greg=Поговорить с Грэгом
 Deal for Greg=Сделка с Грэгом
 Greg=Грег
 Greg Figgle<color\=#A0A0A0FF> (Downtown)</color>=Грег <color\=#A0A0A0FF>(Центральный)</color>
+Deal completed for Greg Figgle=Сделка с Грегом завершена
 
 Jeff Gilmore=Джеф Гилмор
 Talk to Jeff=Поговорить с Джефом
 Deal for Jeff=Сделка с Джефом
 Jeff=Джеф
 Jeff Gilmore<color\=#A0A0A0FF> (Downtown)</color>=Джеф <color\=#A0A0A0FF>(Центральный)</color>
+Deal completed for Jeff Gilmore=Сделка с Джефом завершена
 
-Philip Wentworth=Филип Вентворт
-Talk to Philip=Поговорить с Филипом
-Deal for Philip=Сделка с Филипом
-Philip=Филип
-Philip Wentworth<color\=#A0A0A0FF> (Downtown)</color>=Филип <color\=#A0A0A0FF>(Центральный)</color>
+Philip Wentworth=Филипп Вентворт
+Talk to Philip=Поговорить с Филиппом
+Deal for Philip=Сделка с Филиппом
+Philip=Филипп
+Philip Wentworth<color\=#A0A0A0FF> (Downtown)</color>=Филипп <color\=#A0A0A0FF>(Центральный)</color>
+Deal completed for Philip Wentworth=Сделка с Филиппом завершена
 
 Bruce Norton=Брюс Нортон
 Talk to Bruce=Поговорить с Брюсом
 Deal for Bruce=Сделка с Брюсом
 Bruce=Брюс
 Bruce Norton<color\=#A0A0A0FF> (Downtown)</color>=Брюс <color\=#A0A0A0FF>(Центральный)</color>
+Deal completed for Bruce Norton=Сделка с Брюсом завершена
 
 Lisa Gardener=Лиза Гарденер
 Talk to Lisa=Поговорить с Лизой
 Deal for Lisa=Сделка с Лизой
 Lisa=Лиза
 Lisa Gardener<color\=#A0A0A0FF> (Docks)</color>=Лиза <color\=#A0A0A0FF>(Портовой)</color>
+Deal completed for Lisa Gardener=Сделка с Брюсом завершена
 
 Anna Chesterfield=Анна Честерфилд
 Talk to Anna=Поговорить с Аней
 Deal for Anna=Сделка с Аней
 Anna=Анна
 Anna Chesterfield<color\=#A0A0A0FF> (Docks)</color>=Анна <color\=#A0A0A0FF>(Портовой)</color>
+Deal completed for Anna Chesterfield=Сделка с Анной завершена
 
 Genghis Barn=Чингис Барн
 Talk to Genghis=Поговорить с Чингисом
 Deal for Genghis=Сделка с Чингисом
 Genghis=Чингис
 Genghis Barn<color\=#A0A0A0FF> (Docks)</color>=Чингис <color\=#A0A0A0FF>(Портовой)</color>
+Deal completed for Genghis Barn=Сделка с Чингисом завершена
 
 Cranky Frank=Сумасшедший Фрэнк
 Talk to Cranky Frank=Поговорить с Фрэнком
 Deal for Cranky Frank=Сделка с Фрэнком
 Cranky Frank=Фрэнк
 Cranky Frank<color\=#A0A0A0FF> (Docks)</color>=Фрэнк <color\=#A0A0A0FF>(Портовой)</color>
+Deal completed for Cranky Frank=Сделка с Фрэнком завершена
 
 Kelly Reynolds=Келли Рейнолдс
 Talk to Kelly=Поговорить с Келли
 Deal for Kelly=Сделка с Келли
 Kelly=Келли
 Kelly Reynolds<color\=#A0A0A0FF> (Docks)</color>=Келли <color\=#A0A0A0FF>(Портовой)</color>
+Deal completed for Kelly Reynolds=Сделка с Келли завершена
 
 Javier Pérez=Хавьер Пьерс
 Talk to Javier=Поговорить с Хавьером
 Deal for Javier=Сделка с Хавьером
 Javier=Хавьер
 Javier Pérez<color\=#A0A0A0FF> (Docks)</color>=Хавьер <color\=#A0A0A0FF>(Портовой)</color>
+Deal completed for Javier Pérez=Сделка с Хавьером завершена
 
 Marco Barone=Марко Барон
 Talk to Marco=Поговорить с Марко
 Deal for Marco=Сделка с Марко
 Marco=Марко
 Marco Barone<color\=#A0A0A0FF> (Docks)</color>=Марко <color\=#A0A0A0FF>(Портовой)</color>
+Deal completed for Marco Barone=Сделка с Марко завершена
 
 Melissa Wood=Мелисса Вуд
 Talk to Melissa=Поговорить с Мелиссой
 Deal for Melissa=Сделка с Мелиссой
 Melissa=Мелисса
 Melissa Wood<color\=#A0A0A0FF> (Docks)</color>=Мелисса <color\=#A0A0A0FF>(Портовой)</color>
+Deal completed for Melissa Wood=Сделка с Мелиссой завершена
 
 Mac Cooper=Мак Купер
 Talk to Mac=Поговорить с Маком
 Deal for Mac=Сделка с Маком
 Mac=Мак
 Mac Cooper<color\=#A0A0A0FF> (Docks)</color>=Мак <color\=#A0A0A0FF>(Портовой)</color>
+Deal completed for Mac Cooper=Сделка с Маком завершена
 
 Sherman Giles=Шерман Гайлс
 Talk to Sherman=Поговорить с Шерманом
 Deal for Sherman=Сделка с Шерманом
 Sherman=Шерман
 Sherman Giles<color\=#A0A0A0FF> (Docks)</color>=Шерман <color\=#A0A0A0FF>(Портовой)</color>
+Deal completed for Sherman Giles=Сделка с Шерманом завершена
 
 Billy Kramer=Билли Крамер
 Talk to Billy=Поговорить с Билли
 Deal for Billy=Сделка с Билли
 Billy=Билли
 Billy Kramer<color\=#A0A0A0FF> (Docks)</color>=Билли <color\=#A0A0A0FF>(Портовой)</color>
+Deal completed for Billy Kramer=Сделка с Билли завершена
 
 Chris Sullivan=Крис Салливан
 Talk to Chris=Поговорить с Крисом
 Deal for Chris=Сделка с Крисом
 Chris=Крис
 Chris Sullivan<color\=#A0A0A0FF> (Suburbia)</color>=Крис <color\=#A0A0A0FF>(Пригородный)</color>
+Deal completed for Chris Sullivan=Сделка с Крисом завершена
 
 Hank Stevenson=Хэнк Стивенсон
 Talk to Hank=Поговорить с Хэнком
 Deal for Hank=Сделка с Хэнком
 Hank=Хэнк
 Hank Stevenson<color\=#A0A0A0FF> (Suburbia)</color>=Хэнк <color\=#A0A0A0FF>(Пригородный)</color>
+Deal completed for Hank Stevenson=Сделка с Хэнком завершена
 
 Karen Kennedy=Карен Кеннеди
 Talk to Karen=Поговорить с Карен
 Deal for Karen=Сделка с Карен
 Karen=Карен
 Karen Kennedy<color\=#A0A0A0FF> (Suburbia)</color>=Карен <color\=#A0A0A0FF>(Пригородный)</color>
+Deal completed for Karen Kennedy=Сделка с Карен завершена
 
 Alison Knight=Элисон Кнайт
 Talk to Alison=Поговорить с Элисон
 Deal for Alison=Сделка с Элисон
 Alison=Элисон
 Alison Knight<color\=#A0A0A0FF> (Suburbia)</color>=Элисон <color\=#A0A0A0FF>(Пригородный)</color>
+Deal completed for Alison Knight=Сделка с Элисон завершена
 
 Jeremy Wilkinson=Джереми Вилкинсон
 Talk to Jeremy=Поговорить с Джереми
 Deal for Jeremy=Сделка с Джереми
 Jeremy=Джереми
 Jeremy Wilkinson<color\=#A0A0A0FF> (Suburbia)</color>=Джереми <color\=#A0A0A0FF>(Пригородный)</color>
+Deal completed for Jeremy Wilkinson=Сделка с Джереми завершена
 
 Carl Bundy=Карл Бунди
 Talk to Carl=Поговорить с Карлом
 Deal for Carl=Сделка с Карлом
 Carl=Карл
 Carl Bundy<color\=#A0A0A0FF> (Suburbia)</color>=Карл <color\=#A0A0A0FF>(Пригородный)</color>
+Deal completed for Carl Bundy=Сделка с Карлом завершена
 
 Jackie Stevenson=Джеки Стивенсон
 Talk to Jackie=Поговорить с Джеки
 Deal for Jackie=Сделка с Джеки
 Jackie=Джеки
 Jackie Stevenson<color\=#A0A0A0FF> (Suburbia)</color>=Джеки <color\=#A0A0A0FF>(Пригородный)</color>
+Deal completed for Jackie Stevenson=Сделка с Джеки завершена
 
 Harold Colt=Гарольд Колт
 Talk to Harold=Поговорить с Гарольдом
 Deal for Harold=Сделка с Гарольдом
 Harold=Гарольд
 Harold Colt<color\=#A0A0A0FF> (Suburbia)</color>=Гарольд <color\=#A0A0A0FF>(Пригородный)</color>
+Deal completed for Harold Colt=Сделка с Гарольдом завершена
 
 Jack Knight=Джек Кнайт
 Talk to Jack=Поговорить с Джеком
 Deal for Jack=Сделка с Джеком
 Jack=Джек
 Jack Knight<color\=#A0A0A0FF> (Suburbia)</color>=Джек <color\=#A0A0A0FF>(Пригородный)</color>
+Deal completed for Jack Knight=Сделка с Джеком завершена
 
 Dennis Kennedy=Дэнис Кеннеди
 Talk to Dennis=Поговорить с Дэнисом
 Deal for Dennis=Сделка с Дэнисом
 Dennis=Дэнис
 Dennis Kennedy<color\=#A0A0A0FF> (Suburbia)</color>=Дэнис <color\=#A0A0A0FF>(Пригородный)</color>
+Deal completed for Jack Knight=Сделка с Джеком завершена
 
 Lily Turner=Лили Тёрнер
 Talk to Lily=Поговорить с Лили
 Deal for Lily=Сделка с Лили
 Lily=Лили
 Lily Turner<color\=#A0A0A0FF> (Uptown)</color>=Лили <color\=#A0A0A0FF>(Верхний)</color>
+Deal completed for Lily Turner=Сделка с Лили завершена
 
 Fiona Hancock=Фиона Хэнкок
 Talk to Fiona=Поговорить с Фионой
 Deal for Fiona=Сделка с Фионой
 Fiona=Фиона
 Fiona Hancock<color\=#A0A0A0FF> (Uptown)</color>=Фиона <color\=#A0A0A0FF>(Верхний)</color>
+Deal completed for Fiona Hancock=Сделка с Фионой завершена
 
 Ray Hoffman=Рэй Хоффман
 Talk to Ray=Поговорить с Рэем
 Deal for Ray=Сделка с Рэем
 Ray=Рэй
 Ray Hoffman<color\=#A0A0A0FF> (Uptown)</color>=Рэй <color\=#A0A0A0FF>(Верхний)</color>
+Deal completed for Ray Hoffman=Сделка с Рэем завершена
 
 Jen Heard=Джен Херд
 Talk to Jen=Поговорить с Джен
 Deal for Jen=Сделка с Джен
 Jen=Джен
 Jen Heard<color\=#A0A0A0FF> (Uptown)</color>=Джен <color\=#A0A0A0FF>(Верхний)</color>
+Deal completed for Jen Heard=Сделка с Джен завершена
 
 Walter Cussler=Уолтер Касслер
 Talk to Walter=Поговорить с Уолтером
 Deal for Walter=Сделка с Уолтером
 Walter=Уолтер
 Walter Cussler<color\=#A0A0A0FF> (Uptown)</color>=Уолтер <color\=#A0A0A0FF>(Верхний)</color>
+Deal completed for Walter Cussler=Сделка с Уолтером завершена
 
 Irene Meadows=Айрин Медоуз
 Talk to Irene=Поговорить с Айрин
 Deal for Irene=Сделка с Айрин
 Irene=Айрин
 Irene Meadows<color\=#A0A0A0FF> (Uptown)</color>=Айрин <color\=#A0A0A0FF>(Верхний)</color>
+Deal completed for Irene Meadows=Сделка с Айрин завершена
 
 Herbert Bleuball=Герберт Блюболл
 Talk to Herbert=Поговорить с Гербертом
 Deal for Herbert=Сделка с Гербертом
 Herbert=Герберт
 Herbert Bleuball<color\=#A0A0A0FF> (Uptown)</color>=Герберт <color\=#A0A0A0FF>(Верхний)</color>
+Deal completed for Herbert Bleuball=Сделка с Гербертом завершена
 
 Michael Boog=Микаэль Буг
 Talk to Michael=Поговорить с Микаэлем
 Deal for Michael=Сделка с Микаэлем
 Michael=Микаэль
 Michael Boog<color\=#A0A0A0FF> (Uptown)</color>=Микаэль <color\=#A0A0A0FF>(Верхний)</color>
+Deal completed for Michael Boog=Сделка с Микаэлем завершена
 
 Tobias Wentworth=Тобиас Вентворт
 Talk to Tobias=Поговорить с Тобиасом
 Deal for Tobias=Сделка с Тобиасом
 Tobias=Тобиас
 Tobias Wentworth<color\=#A0A0A0FF> (Uptown)</color>=Тобиас <color\=#A0A0A0FF>(Верхний)</color>
+Deal completed for Tobias Wentworth=Сделка с Тобиасом завершена
 
-Pearl Moore=Прл Мур
+Pearl Moore=Пёрл Мур
 Talk to Pearl=Поговорить с Пёрл
 Deal for Pearl=Сделка с Пёрл
 Pearl=Пёрл
 Pearl Moore<color\=#A0A0A0FF> (Uptown)</color>=Пёрл <color\=#A0A0A0FF>(Верхний)</color>
+Deal completed for Pearl Moore=Сделка с Пёрл завершена
 
 ##--ЭФФЕКТЫ--##
 
