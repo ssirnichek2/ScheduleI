@@ -179,7 +179,7 @@ Speak to the friendly folk at Dan's Hardware for all your 'home improvement' nee
 
 Need to hide from the authorities? Try a bush, dumpster, or large tree,=Нужно спрятаться от копов? Прыгай в кусты, мусорку или за большое дерево.
 
-Employees slacking off? Try punching them!=Сотрудники ленятся? Ебани по ним разок!
+Employees slacking off? Try punching them!=Сотрудники ленятся? Так тресни им!
 
 There are a number of ATMs scattered throughout Hyland Point for your convenience.=По всему Хайленд Пойнт разбросаны банкоматы для твоего удобства.
 
@@ -228,7 +228,7 @@ You can use an AC unit to warm or cool an area.=Ты можешь использ
 
 You can rename stations, pots, storage racks, etc, using your management clipboard.=Ты можешь переименовывать станции, горшки, хранилища и т. д. с помощью планшета управления.
 
-Make sure you are providing the right quality product to your dealers for their assigned customers.=Убедись, что nы выдаёim дилерам товар качества, соответствующего предпочтениям их клиентов.
+Make sure you are providing the right quality product to your dealers for their assigned customers.=Убедись, что ты выдаёшь дилерам товар качества, соответствующего предпочтениям их клиентов.
 
 ##--ПАУЗА--##
 
@@ -856,7 +856,7 @@ Dead Drop=Тайник
 #-Банкомат-#
 
 Use ATM=Использовать банкомат
-r:"^Hello, ([^ ]+)$"=Привет, $1
+sr:"^Hello, (.+)$"=Привет, $1
 ATM=<size\=22>Банкомат</size>
 Weekly Deposit Limit=Лимит внесения в нед.
 Online Balance=Баланс
@@ -1134,7 +1134,7 @@ Hmm... Oscar seen one lying around somewhere in <color\=#76C9FF>uptown</color> I
 
 Oh! and I remember hearing <color\=#76C9FF>that shirtless guy with the bucket hat</color> has one! Sorry, Oscar isn't very good with names. Hope this helps.=О! Вспомнил! Он есть у <color\=#76C9FF>того пареня без рубашки и с ведром на голове</color> Прости, Оскар плохо запоминает имена. Надеюсь, помог.
 Oh! and I remember hearing <color\=#76C9FF>the guy with the big eyebrows and the teardrop tattoo</color> has one! Sorry, Oscar isn't very good with names. Hope this helps.=О! Вспомнил! Он есть у <color\=#76C9FF>парня со здоровенными бровями и татухой в виде слезы.</color> Прости, Оскар плохо запоминает имена. Надеюсь, помог.
-Oh! and I remember hearing <color\=#76C9FF>the blond guy with the jacket</color> has one! Sorry, Oscar isn't very good with names. Hope this helps.=О! Вспомнил! Он есть у <color\=#76C9FF>блондина в куртке</color>! Прости, Оскар плохо запоминает имена. Надеюсь, помог.
+Oh! and I remember hearing <color\=#76C9FF>the blonde guy with the jacket</color> has one! Sorry, Oscar isn't very good with names. Hope this helps.=О! Вспомнил! Он есть у <color\=#76C9FF>блондина в куртке</color>! Прости, Оскар плохо запоминает имена. Надеюсь, помог.
 
 #-Бизнесы-#
 
@@ -2432,17 +2432,18 @@ Select/Deselect=Выбрать/Отменить
 Deselect All=Отменить всё
 (Hold) Select Multiple=(Удерж.) Выбрать несколько
 
-Hi boss=Да, босс?
+Hi boss=Босс?
 Why aren't you working?=Ты чего не работаешь?
 
 Sorry boss, I need to be assigned a locker before I can get to work.=Извините, мне нужен шкафчик чтобы приступить к работе.
 How do I assign your locker?=Как мне назначить тебе шкафчик?
-You can use your management clipboards for that.=Для этого придуман планшет управления.
+You can use your management clipboard for that.=С помощью планшета управления.
 Sorry boss, I haven't been paid to work today.=Извините, мне сегодня не заплатили.
 How do I pay you?=Как мне тебе заплатить?
-You can place cash in my locker.=Для этого положите наличку в мой шкафчик.
+You can place cash in my locker.=Положите наличку в мой шкафчик.
 There's nothing for me to do right now.=Мне нечего делать.
 How can I fix this?=Как мне это исправить?
+Sorry boss, my shift ends at 4AM.=Извините, моя смена закончилась в 4:00.
 
 
 I need to transfer you to another property=Можешь пойти на другую точку?
@@ -2461,7 +2462,56 @@ sr:"^(.+) will draw her daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</co
 
 Assign locker=Назначь шкафчик
 
+Does not match type requirement=Неподходящий тип
+sr:"^Already assigned to (.+)$"=Уже назначено $1
+
+Rename=Название
+
+Manage Pot=Управлять горшком
+Pot=Горшок
+Seed=Семя
+Any=Любое
+Additive 1=Добавка 1
+Additive 2=Добавка 2
+Additive 3=Добавка 3
+^Harvested product will be automatically moved to the destination by the assigned botanist=^Собранное растение будет отнесено в пункт назначения назначенным садоводом
+
+Manage Packaging Station=Управлять станцией упаковки
+^Output will be automatically moved to the destination by the assigned packager=^Итог будет перенесён в пункт назначения назначенным фасовщиком
+
+Manage Storage=Управлять хранилищем
+
+Manage Mixing Station=Управлять станцией смешивания
+Threshold=Порог
+^Mixing station must contain at least this many product/mixers before mixing starts=^Станция смешивания должна содержать это количество продукта/ингредиента чтобы стартовать
+^Output will be automatically moved to the destination by the assigned chemist=^Итог будет перенесён в пункт назначения назначенным химиком
+
+Manage Mushroom Bed=Управлять грибной грядкой
+Spawn=Мицелий
+
+Manage Mushroom Spawn Station=Управлять станцией инокуляции
+^Output will be automatically moved to the destination by the assigned botanist=^Итог будет перенесён в пункт назначения назначенным садоводом
+
+Manage Chemistry Station=Управлять химстанцией
+No Recipe Specified=Рецепт не выбран
+Recipe=Рецепт
+Unspecified=Нету
+Select Recipe=Выбери рецепт
+
+Manage Lab Oven=Управлять лабороторной печью
+
+Manage Drying Rack=Управлять сушилкой
+Target Quality=Качество
+^The assigned botanist will remove items from the rack once they reach this quality=^Назначенный садовод снимет продукт с сушилки, когда он достигнет этого качества
+^Minimum amount of buds/leaves for the assigned botanist to begin the drying process=^Сушилка должна содержать это количество продукта чтобы стартовать
+
+Manage Brick Press=Управлять прессом
+
+Manage Cauldron=Управлять котлом
+
 #-Уборщик-#
+
+Cleaner=Уборщик
 
 Learn how to manage cleaners.=Узнай как управлять уборщиками.
 Use the management clipboard to assign the cleaner to a locker=Назначь уборщику шкафчик с помощью планшета управления
@@ -2469,11 +2519,90 @@ Assign a trash can to the cleaner=Назначь уборщику мусорку
 Place cash in the cleaner's locker=Положи уборщику в шкафчик деньги
 
 I haven't been assigned any trash cans=Извините, мне не назначили мусорки.
-You can use your management clipboards to assign trash cans to me.=Для того, чтобы назначить мне мусорки, используй планшет управления.
+You can use your management clipboards to assign trash cans to me.=С помощью планшета управления.
 
 Manage Cleaner=Управлять уборщиком
 Assigned Trash Cans=Назначенные мусорки
 r:Assigned Trash Cans (.*)\/(.*)=Назначенные мусорки $1/$2
+r:Assign Trash Cans (.*)\/(.*)=Назначенные мусорки $1/$2
+
+#-Садовод-#
+
+Botanist=Садовод
+
+Learn how to manage botanists.=Узнай как управлять садоводами.
+Use the management clipboard to assign the botanist to a locker=Назначь садоводу шкафчик с помощью планшета управления
+Assign a supplies source to the botanist=Назначь садоводу источник припасов с помощью планшета управления
+Assign a pot or grow tent to the botanist=Назначь садоводу горшок или тент
+Set the pot/grow tent destination=Укажи место назначения для горшка/тента
+Place cash in the botanist's locker=Положи садоводу в шкафчик деньги
+
+I haven't been assigned anything=Извините, мне ничего не назначили.
+You can use your management clipboards to assign trash cans to me.=С помощью планшета управления можно назначить мне горшки, грядки, сушилки и т.д.
+There are empty pots, but I don't have any soil to pour.=Извините, горшки пустые, а у меня нету почвы.
+Use your management clipboard to assign a supplies stash to me, then make sure there's soil in it.=С помощью планшета управления можно назначить хранилище с припасами, также убедитесь что там есть почва.
+Make sure there's soil in my supplies stash.=Убедитесь, что в моих припасах есть почва.
+There is a pot ready for sowing, but I don't have any seeds for it.=Изыините, горшки готовы к посеву, а у меня нету семян.
+Make sure I have the right seeds in my supplies stash.=Убедитесь, что в моих припасах есть нужные семена.
+There is a plant ready for harvest, but it has no destination or it's destination is full.=Извините, растения готовы к сбору, но у горшков нету пункта назначения. 
+Use your management clipboard to assign a destination for each of my pots, and make sure the destination isn't full.=С помощью планшета управления назначьте пункт назначения каждому моему горшку, также убедитесь что он не заполнен.
+I don't have any shroom spawn to mix into my assigned mushroom beds.=Извините, грядка готова к культивации, но у меня нету мицелия.
+Make sure I have shroom spawn my supplies stash.=Убедитесь, что в моих припасах есть мицелий.
+There is a mushroom colony ready for harvest, but it has no destination or it's destination is full.=Извините, грибы готовы к сбору, но у грядок нету пункта назначения.
+Use your management clipboard to assign a destination for each of my mushroom beds, and make sure the destination isn't full.=С помощью планшета управления назначьте пункт назначения каждой моей грядке, также убедитесь что он не заполнен.
+
+Manage Botanist=Управлять садоводом
+Supplies=Припасы
+Botanists will grab any required items (soil, seeds, additives, etc) from this object.=Садоводы возьмут с этого хранилища все необходимые предметы (почву, семена, добавки и т. д.)
+Select Supplies Source=Назначь источник припасов
+Assigned=Назначено
+r:^Assigned (.*)\/(.*)$=Назначено $1/$2
+r:Assign to botanist (.*)\/(.*)=Назначь садоводу $1/$2
+Botanists can be assigned:\n- Pots\n- Drying racks\n- Mushroom beds\n- Mushroom spawn stations=Садоводам можно назначить:\n- Горшки\n- Сушилки\n- Грибные грядки\n- Станции инокуляции
+
+#-Фасовщик-#
+
+Handler=Фасовщик
+
+Learn how to manage handlers.=Узнай как управлять фасовщиками.
+Use the management clipboard to assign the handler to a locker=Назначь фасовщику шкафчик с помощью планшета управления
+Assign a packaging station to the handler=Назначь фасовщику станцию упаковки с помощью планшета управления
+Place cash in the handler's locker=Положи фасовщику в шкафчик деньги
+
+I need one of my assigned stations to have enough product and packaging to get to work.=Мне нужно достатосн продукта и упаковки в назначенной станции упаковки.
+
+Manage Handler=Управлять фасовщиком
+Handlers can be assigned:\n- Packaging stations\n- Brick presses=Фасовщикам можно назначить:\n- Станции упаковки\n- Прессы
+r:Assign to handler (.*)\/(.*)=Назначь фасовщику $1/$2
+Assigned Packaging Stations=Назначенные станции упаковки
+Routes=Пути
+Handlers will attempt to move items from each\\n'source' object to it's corresponding 'destination'..=Фасовщик попытается перенести предметы из\\n'источника' в соответствующий пункт назначения.
+From=Откуда
+To=Куда
+Add New=Добавить
+Select source=Откуда
+Select destination=Куда
+Destination cannot be the same as the source=Пункт назначения не может быть источником
+Source cannot be the same as the destination=Источник не может быть пунктом назначения
+
+#-Химик-#
+
+Chemist=Химик
+
+Learn how to manage chemists.=Узнай как управлять химиками.
+Use the management clipboard to assign the chemist to a locker=Назначь химику шкафчик с помощью планшета управления
+Assign a station to the chemist=Назначь химику станцию с помощью планшета управления
+Place cash in the chemist's locker=Положи химику в шкафчик деньги
+
+I haven't been assigned any stations=Извините, мне ничего не назначено.
+You can use your management clipboards to assign stations to me.=С помощью планшета управления.
+
+Manage Chemist=Управлять химиком
+Assigned Stations=Назначенные станции
+Chemists can be assigned:\n- Chemistry stations\n- Lab ovens\n- Cauldrons\n- Mixing stations=Химикам можно назначить:\n- Химстанции\n- Лабораторные печи\n- Котлы\n- Станции смешивания
+r:Assign to chemist (.*)\/(.*)=Назначь химику $1/$2
+
+
 
 ##--РАЗБЛОКИРОВКА ДИЛЕРОВ И ПОСТАВЩИКОВ--##
 
@@ -2940,6 +3069,7 @@ Marijuana=Марихуана
 Methamphetamine=Метамфетамин
 Shrooms=Грибы
 Cocaine=Кокаин
+r:Cocaine (.*)=Кокаин $1
 
 r:Suggested: \$(\d{1,3}(?:,\d{3})*)=Предлагают: $1$
 List For Sale?=На продажу?
@@ -3537,6 +3667,7 @@ Liquid Meth=Жидкий мет
 Meth (Liquid)=Жидкий мет
 Methamphetamine in liquid form. Use a drying oven to bake into solid form.=Метамфетамин в жидкой форме. Используй лабораторную печь, чтобы превратить его в твёрдую.
 Meth=Мет
+r:Meth (.*)=Мет $1
 Meth (Unpackaged)=Мет (Неупакованный)
 Poor Methamphetamine=Ужасный мет
 Standard Methamphetamine=Обычный мет
@@ -3559,6 +3690,7 @@ r:Mix the chunks into the soil (.*)\/(.*)=Закопай кусочки в су�
 Mix=Закопать
 Must be filled with substrate=Нет субстрата
 Shroom=Гриб
+r:Shroom (.*)=Гриб $1
 Shroom (Unpackaged)=Гриб (Неупакованный)
 (Hold) Consume=(Удерж.) Съесть
 Trash Magic Mushroom=Мусорный магический гриб
@@ -3909,7 +4041,7 @@ Fancy hand woven fabric pot that keeps roots ventilated. Boosts plant growth spe
 
 Mushroom Bed=Грибная грядка
 Square garden bed. Perfect for growing mushrooms in.=Квадратная грядка. Идеальна для выращивания грибов.
-Temperature must be below 15 ℃=Температура должна быть ниже 15 ℃
+Temperature must be below 15 °C=Температура должна быть ниже 15 °C
 
 Mushroom Spawn Station=Станция инокуляции
 Provides a sterile environment to inocculate grain bags with spore syringes.=Обеспечивает стерильные условия для инокуляции зерновых пакетов шприцами со спорами.
@@ -4164,7 +4296,7 @@ LEVEL UP!=ПОВЫШЕНИЕ УРОВНЯ!
 NOW AVAILABLE:=ТЕПЕРЬ ДОСТУПНО:
 NOW AVAILABLE\n=ТЕПЕРЬ ДОСТУПНО\n
 r:"^(\+\d+) more$"=$1 ещё
-+ More      <color\=#FFC73D>Spray Paint</color> available at Gas-Mart=+ Ещё      <color\=#FFC73D>Граффити</color> доступно на заправке
++ More      <color\=#FFC73D>Spray Paint</color> available at Gas-Mart=+ Ещё          <color\=#FFC73D>    Граффити</color> доступно на заправке
 
 ##--РАНГИ--##
 
@@ -5247,7 +5379,7 @@ Zombifying=Зомбирующий
 ##--ФИЛЬТРЫ--##
 
 Configure Filter=Фильтр
-Filters tell employees what items\n can or cannot be placed in this slot.=Фильтр указывает сотрудникам какие предметы можно а какие нельзя класть в этот слот.
+Filters tell employees what items\\n can or cannot be placed in this slot.=Фильтр указывает сотрудникам какие предметы\\n можно или нельзя размещать в этом слоте.
 Copy filter=Скопировать
 Paste filter=Вставить
 Apply to siblings=Применить к остальным
