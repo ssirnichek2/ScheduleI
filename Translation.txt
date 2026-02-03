@@ -285,7 +285,7 @@ Fill up the watering can at the sink and water the other weed plant=Наполн
 Respond to your customers in the messages app=Ответь клиентам в приложении 'Мессенджер'
 Talk to Uncle Nelson outside=Поговори с Дядей Нельсоном на улице
 
-Morning bud, come talk to me after you've got everything done in the RV.=Доброе утро, парень. Потрещим когда закончишь дела в фургоне.
+Morning bud, come talk to me after you've got everything done in the RV.=Доброе утро, парень. Потрещим когда закончишь дела в трейлере.
 Morning buddy, lovely day ain't it?=Доброе утро, парень. Доброе...
 Sure is=Доброе
 If you're heading in to town for some deals, would you mind grabbing something for me?=Если поедешь в город, не мог бы ты кое что взять для меня?
@@ -401,7 +401,7 @@ Hey friend, you're new, right? Nice to see a fresh face in town.=Дружище,
 I'm Dan, I run this here hardware store. What line of work are you in?=Я Дэн, владелец этого магазина. Ты кем работаешь?
 I work in agriculture=Я садовод
 Drug dealer=Я наркоторговец
-You wanna try minding your own business?=Займись своим делом
+You wanna try minding your own business?=А тебя это ебать не должно
 Oh ain't that nice, I always fancied a bit of gardening myself. Here's some SpeedGrow on the house. Welcome to Hyland Point.=Ух ты! Я всегда мечтал заняться садоводством. Вот тебе ускоритель роста для дома. Добро пожаловать в Хайленд Поинт.
 Haha good one partner. Tell you what, take some SpeedGrow on the house - them 'Marijuana' plants will love it.=Хаха, смешная шутка. Если что, возьми ускоритель роста для дома - 'Марихуана' его любит.
 Thanks...=Спасибо...
@@ -568,7 +568,7 @@ Meet the stranger at the parking lot next to Taco Ticklers=Встреть нез
 • Meet the stranger at the parking lot next to Taco Ticklers=• Встреть незнакомца на парковке перед Тако Тиклерс
 You wanted to meet?=Это ты хотел встретиться?
 Ah, it's you... I'm Thomas. I believe we share a similar line of work.=А, это ты... Я Томас. Я уверен что мы занимаемся похожим делом.
-I'd like to apologise for the minor altercation we had earlier involving your RV. We have a rather successful operation here in Hyland Point, and we're not keen on sharing the market.Соболезнованую за фургон. У нас в Хайленд Поинт довольно успешная операция, и делиться рынком мы не горим желанием.
+I'd like to apologise for the minor altercation we had earlier involving your RV. We have a rather successful operation here in Hyland Point, and we're not keen on sharing the market.=Соболезнованую за трейлер. У нас в Хайленд Поинт довольно успешная операция, и делиться рынком мы не горим желанием.
 Go ahead=Ближе к теме
 However, I'd like to extend an offer. You will sell us product on an ongoing basis; 2-3 times per week. Large quantities and wholesale prices.=В любом случае, у меня к тебе предложение. Ты продаёшь нам свой товар на постоянной основе 2-3 раза в неделю. Крупные партии и оптовые цены.
 Additionally, you will refrain from dealing with customers outside of Northtown and Westville. The rest of Hyland Point is our territory - end of story.=Но, ты воздерживаешься от работы с клиентами за пределами Северного и Западного района. Остальной Хайленд Поинт наш - и точка.
@@ -2608,7 +2608,7 @@ r:Assign to chemist (.*)\/(.*)=Назначь химику $1/$2
 
 Thank you. You should go talk to Benji Coleman - they might be able to help you move your stuff.=Спасибо. Тебе стоит поговорить с Бенджи Кулманом - он может помочь тебе с продажей дури.
 Thanks. Hey, my friend Benji Coleman is a dealer and can help you move your product. You should go speak to them.=Спасибо. Мой друг Бенджи Кулман - дилер, может помочь с толканием твоего товара. Тебе стоит поговорить с ним.
-Cheers. My friend Benji Coleman is a dealer and might be able to help you move your stuff. You should go speak to them.=Ваше здоровье. Мой друг Бенджи Коулман - дилер, он может помочь тебе с продажами. Тебе стоит с ним поговорить.
+Cheers. My friend Benji Coleman is a dealer and might be able to help you move your stuff. You should go speak to them.=Твоё здоровье. Мой друг Бенджи Кулман - дилер, он может помочь тебе с продажами. Тебе стоит с ним поговорить.
 
 Thanks. Hey, my friend Molly Presley is a dealer and can help you move your product. You should go speak to them.=Спасибо. Мой подруга Молли Пресли - дилер, может помочь с толканием твоего товара. Тебе стоит поговорить с ней.
 Cheers. My friend Molly Presley is a dealer and might be able to help you move your stuff. You should go speak to them.=Спасибо. Моя подруга Молли Пресли - дилер, она может помочь тебе с продажами. Поговори с ней.
@@ -3233,6 +3233,7 @@ Nevermind!=Ничего!
 Alright fine=Круто...
 Nope - nevermind=Нет - никогда
 Not gonna happen!! I'll get it somewhere else bitch=Никогда! Найду в другом месте, сука
+Not gonna happen. I'll get it somewhere else=Никогда. Найду в другом месте
 Nopeskies bro - nevermind=Не бро, забудь
 Aight bro maybe next time=Ок, может в следующий раз
 No way=Ни за что!
@@ -3242,7 +3243,7 @@ Ready?=Готов?
 About time...=Ну наконец‑то…
 Ready when you are=Жду готовности
 You got the stuff?=Ты принёс?
-Alright come on=Ну, давай быстрее
+Alright come on=Давай быстрее
 Come on lets go=Ну, давай
 Lets get this over with=Давай покончим с этим
 Lets get this party started=Да начнётся веселье
@@ -3554,7 +3555,7 @@ Gross!=Отстой!
 Not interested, sorry=Сорян, не интересно
 Not interested=Не интересно
 The hell was that?=Что это за хуйня?
-Argh! That's nasty=Фу! Хуйня какая-то
+Argh! That's nasty=Фу! Что за параша
 Not interesed=Не интересно
 Not what I like, sorry=Мне такое не нравится, сорян
 I don't really like that...=Не люблю такое...
@@ -3600,7 +3601,7 @@ DONE=ГОТОВО
 sr:"^(.+) is paying <color\=#50E65A>\$(\d{1,3}(?:,\d{3})*)\</color> for:$"=$1 платит <color\=#50E65A>$2$</color> за:
 Customer expectations not met=Ожидания клиента не оправданы
 Product must be packaged=Продукт должен быть упакован
-r:"^(.+) \(Unpackaged\)$"=$1 (Неупакованно)
+r:"^(.+) \(Unpackaged\)$"=$1 (Неупаковано)
 r:"^(\d+)% chance of customer accepting$"=$1% вероятность принятия
 You are providing more product than required.=Больше товара, чем требуется.
 You are providing more items than required.=Больше товара, чем требуется.
@@ -3804,8 +3805,8 @@ Packaging Station Mk II=Станция упаковки Mk II
 An upgraded version of the packaging station with a rotary packing tool. Allows for much faster packing of products.=Улучшенная станция упаковки с ротационным инструментом. Значительно ускоряет упаковку продукта.
 Use Packaging Station Mk II=Использовать танцию упаковки Mk II
 Rotate Conveyor=Вращать конвейер
-Drop Product=Бросить продукт
-DROP=БРОСИТЬ
+Drop Product=Скинуть продукт
+DROP=СКИНУТЬ
 Insert product into packaging=Размести продукт в упаковке
 
 Baggie=Пакетик
@@ -4528,8 +4529,8 @@ In front of motel=Перед мотелем
 in front of the motel=перед мотелем
 
 Thompson\nConstruction & Demo=Строительная\nкомпания
-Behind Thompson Construction=За строительной компанией
-behind Thompson Construction=за строительной компанией
+Behind Thompson construction and demolition=За строительной компанией
+behind Thompson construction and demolition=за строительной компанией
 
 Stash & Dash=Складской блок
 
@@ -4629,7 +4630,7 @@ next to the medical center=около больницей
 Warehouse=Склад
 
 Barbershop=Парикмахерская
-Next to barbershop=Рядом с парикмахерской
+Next to barbershop=Около парикмахерской
 next to the barbershop=около парикмахерской
 
 Slop Shop=Закусочная
@@ -4889,7 +4890,7 @@ Talk to Ludwig=Поговорить с Людвигом
 Deal for Ludwig=Сделка с Людвигом
 Ludwig=Людвиг
 Ludwig Meyer<color\=#A0A0A0FF> (Northtown)</color>=Людвиг <color\=#A0A0A0FF>(Северный)</color>
-Deal completed for Peggy Myers=Сделка с Пегги завершена
+Deal completed for Ludwig Meyer=Сделка с Людвигом завершена
 
 Beth Penn=Бет Пен
 Talk to Beth=Поговорить с Бет
