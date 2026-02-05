@@ -224,7 +224,7 @@ Each time you rank up, you can purchase another Spray Paint can at a gas station
 
 You can set filters on item slots to tell employees which items can or can't go in a particular slot.=Ты можешь настроить фильтры на слоты предметов, чтобы указать сотрудникам, какие предметы можно или нельзя размещать в конкретном слоте.
 
-You can use an AC unit to warm or cool an area.=Ты можешь использовать кондиционер чтобы установить нужную температуру в определённой облости.
+You can use an AC unit to warm or cool an area.=Ты можешь использовать кондиционер чтобы установить нужную температуру в определённой области.
 
 You can rename stations, pots, storage racks, etc, using your management clipboard.=Ты можешь переименовывать станции, горшки, хранилища и т. д. с помощью планшета управления.
 
@@ -2711,8 +2711,8 @@ sr:"You can now hire <color\=#88CBFF>Wei Long</color> as a dealer.$"=Тепер�
 sr:"You can now hire <color\=#88CBFF>Leo River</color> as a dealer.$"=Теперь можно нанять <color\=#88CBFF>Лео Ривера</color> дилером.
 Use the <color\=#88CBFF>dealer management app</color> to assign customers to dealers.=Используй приложение <color\=#88CBFF>'Дилеры'</color> чтобы назначать клиентов для дилеров.
 
-You can now order <color\=#88CBFF>pseudo</color> from Shirley. Pseudo is the main precursor ingredient for <color\=#88CBFF>methamphetamine</color>.=Теперь можно заказывать <color\=#88CBFF>псевдо</color> у Ширли. Псевдо - основной ингредиент для <color\=#88CBFF>метамфетамина</color>.
-You can now order <color\=#4CB0FF>magic mushroom supplies</color> from <color\=#4CB0FF>Fungal Phil</color>.=Теперь можно заказывать <color\=#88CBFF>всё для магических грибов</color> у <color\=#88CBFF>Грибного Фила</color>.
+You can now order <color\=#88CBFF>pseudo</color> from Shirley. Pseudo is the main precursor ingredient for <color\=#88CBFF>methamphetamine</color>.=Теперь можно заказывать <color\=#88CBFF>псевдо</color> у Ширли. Псевдо - основной прекурсор для <color\=#88CBFF>метамфетамина</color>.
+You can now order <color\=#4CB0FF>magic mushroom supplies</color> from <color\=#4CB0FF>Fungal Phil</color>.=Теперь можно заказывать <color\=#88CBFF>поставки для грибов</color> у <color\=#88CBFF>Грибного Фила</color>.
 You can now order <color\=#88CBFF>coca seeds</color> from Salvador. Coca plants yield <color\=#88CBFF>coca leaves</color>, which are the main precursor ingredient for <color\=#88CBFF>cocaine</color>.=Теперь можно заказывать <color\=#88CBFF>семена коки</color> у Сальвадора. Из них получаются <color\=#88CBFF>листья коки</color> - основа для <color\=#88CBFF>кокаина</color>.
 
 ##--ДИАЛОГИ--##
@@ -3267,7 +3267,7 @@ Yes!!!=Да!!!
 Nice=Отлично
 Very nice=Превосходно
 Very nice!=Превосходно!
-Cool=Крутотень
+Cool=Охлождение
 Much appreciated=Вот спасибо
 Much appreciated homie=Вот спасибо сладкий
 Sweet as my man=Заебок
@@ -3377,7 +3377,8 @@ Collect Dead Drop=Забери закладку
 
 r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now paid off\.$"=Получены твои $$${1} наличными. Твой долг теперь оплачен.
 r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{1,3}(?:,\d{3})*)$"=Получены от тебя $$${1} налом. Твой долг теперь $$${2}
-When you're ready please deposit <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\ into my stash box - your debt is still unpaid.=Когда будешь готов, пожалуйста, положи <color\=#54E717>$1$</color> в мой тайник - ты мне должен.
+r:"^When you're ready please deposit <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\ into my stash box - your debt is still unpaid.$"=Когда будешь готов, пожалуйста, положи <color\=#54E717>$1$</color> в мой тайник - ты мне должен.
+r:"^I'm still currently waiting on a payment of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Please deposit it into my stash box when you've got a chance.$"=Я всё ещё жду оплату в размере <color\=#54E717>$1$</color>. Пожалуйста, положи деньги в мой тайник по возможности.
 
 We've been working together for a while now, and you've proven to be quite reliable. =Мы уже давно работаем вместе, и ты показал себя надёжным человеком.
 If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.=Если тебе нужно заказать больше припасов, можно взять и встретиться лично. Просто отправь мне сообщение.
@@ -3412,6 +3413,7 @@ Got it. I'll be in the west construction site for the next 6 hours.=Принят
 
 Hello sir. Ready to peruse the supplies?=Привет. Готов выбрать припасы?
 Hey - ready to take a peek at the supplies?=Хэй - хочешь взглянуть на припасы?
+Hey - ready to take a gander?=Хэй - хочешь взглянуть?
 Need something?=Что-нибудь нужно?
 Insufficient cash. Visit an ATM to withdraw cash.=Недостаточно налички. Посети банкомат чтобы снять деньги.
 Good doing business with you, sir.=С тобой приятно иметь дело, бро.
@@ -3436,7 +3438,7 @@ r:"^You owe Albert Hoover <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Inser
 #-Ширли-#
 
 You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.=Можешь погасить долг, положив наличку в мой тайник. Он на западной стороне склада.
-Select items to order from Albert=Выбери предметы для заказа у Ширли
+Select items to order from Shirley=Выбери предметы для заказа у Ширли
 
 Heyo, I'm Shirley. I work in the pharmaceutical business, and heard you got a nasty cough...=Хай, я Ширли. Работаю в фармацевтике, слышала, у тебя нехилый кашель...
 If you're in need of some pseudo, I'm your gal. Send me a message and we'll figure something out=Нужно немного псевдо? Обращайся ко мне. Черкани - придумаем чё-нить.
@@ -3449,7 +3451,7 @@ r:"^You owe Shirley Watts <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Inser
 #-Сальвадор-#
 
 You can pay off your debt by placing cash in my stash. It's behind the Church.=Можешь погасить долг, положив наличку в мой тайник. Он за церковью.
-Select items to order from Albert=Выбери предметы для заказа у Сальвадора
+Select items to order from Salvador=Выбери предметы для заказа у Сальвадора
 
 Hey, I'm Sal. You need Coca seeds? You speak to me.=Привет, я Сал. Нужны семена коки? Обращайся ко мне.
 Send me a message if you want to order a drop.=Напиши мне, если хочешь заказать закладку.
@@ -3462,7 +3464,7 @@ r:"^You owe Salvador Moreno <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Ins
 #-Фил-#
 
 You can pay off your debt by placing cash in my stash. It's behind the downtown Gas-Mart.=Можешь погасить долг, положив наличку в мой тайник. Он за центральной заправкой.
-Select items to order from Albert=Выбери предметы для заказа у Фила
+Select items to order from Fungal Phil=Выбери предметы для заказа у Фила
 
 If you're wanting to get into the art of cultivating magic mushrooms, you're in luck!=Если хочешь погрузиться в тему выращивания магических грибов, тебе повезло!
 Spores, grain bags, substrate - you need it, just let me know.=Споры, зерно, субстрат — всё подгоню, только маякни.
@@ -3547,6 +3549,7 @@ No thanks=Не пасиб
 No thanks...=Нет, спасибо...
 No thanks bro=Не пасиб бро
 No thanks brody=Не пасиб братиш
+No thanks mulatto=Не пасиб братик
 Nope=Нет
 I'm good thanks=Я в норме
 I'm good thanks man=Бро, я в норме
@@ -3690,6 +3693,7 @@ Break chunks=Ломать кусочки
 r:Mix the chunks into the soil (.*)\/(.*)=Закопай кусочки в субстрат $1/$2
 Mix=Закопать
 Must be filled with substrate=Нет субстрата
+Already contains shrooms=Мицелий уже добавлен
 Shroom=Гриб
 r:Shroom (.*)=Гриб $1
 Shroom (Unpackaged)=Гриб (Неупакованный)
@@ -4067,7 +4071,7 @@ Full Spectrum Grow Light=Фитолампа полного спектра
 Very fancy full-spectrum grow light. Stimulates plant growth 30% faster than halogen. Must be placed on a suspension rack.=Очень качественный полноспектральный светильник для роста растений. Ускоряет рост на 30% быстрее галогенного. Требует установки на подвесную стойку.
 
 Drying Rack=Сушилка
-Hang up organic items (weed, coca leaves) here to improve their quality.=Развесь органические материалы (траву, листья коки) здесь, чтобы улучшить их качество.
+Hang up organic items (weed, coca leaves) here to improve their quality.=Развесь органические материалы (траву, коки, грибы) здесь, чтобы улучшить их качество.
 Use Drying Rack=Использовать
 Insert bud/leaf into input and press 'dry'=Засунь шишку/лист/гриб во вход и нажми 'суш'
 DRY=СУШ
@@ -4563,7 +4567,7 @@ Next to parking garage=Рядом с парковкой
 in the parking garage next to the casino=у парковки рядом с казино
 
 Casino=Казино
-Behind Casino=За казино
+Behind the casino=За казино
 behind the casino=за казино
 
 Les Ordures\nPuantes=Французский\nресторан
@@ -4677,7 +4681,7 @@ Behind Handy Hank's=За Хозтоварами Хэнка
 behind Handy Hank's=за хозтоварами Хэнка
 
 Body\nShop=Автосервис
-Behind auto shop=За автосервисом
+Behind the auto shop=За автосервисом
 behind the auto shop=за автосервисом
 
 Bleuball\nBoutique=Бутик
