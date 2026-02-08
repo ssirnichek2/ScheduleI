@@ -216,7 +216,7 @@ Don't leave items attended for too long in dead drops, otherwise they might be s
 
 Dealers keep getting robbed? Give them a weapon to defend themselves with.=Дилеров всё время грабят? Так дай им оружие для самообороны!
 
-Spraying graffiti will give you XP and reduce cartel influence in that region.=Распыление граффити даст тебе XP и снизит влияние картеля в этом районе.
+Spraying graffiti will give you XP and reduce cartel influence in that region.=Распыление граффити даст тебе опыт и снизит влияние картеля в этом районе.
 
 Most plants will grow faster in warm temperatures.=Большинство растений в теплоте растут быстрее.
 
@@ -952,7 +952,7 @@ Dismount=Сойти
 
 sr:"^That'll be <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> for the (.+)\. Sound good\?$"=Это будет <color\=#54E717>$$1</color> за $2. По рукам?
 Cheers homedog, here's your board.=Спасиб бро, вот твоя доска.
-No problem homie, see ya later.=Не проблема, сладкий. Увидимся.
+No problem homie, see ya later.=Не проблема, чувак. Увидимся.
 INVENTORY FULL=ИНВЕНТАРЬ ПОЛОН
 
 ##-казик-##
@@ -2464,6 +2464,7 @@ Assign locker=Назначь шкафчик
 
 Does not match type requirement=Неподходящий тип
 sr:"^Already assigned to (.+)$"=Уже назначено $1
+sr:"^In use by (.+)$"=Занято
 
 Rename=Название
 
@@ -2919,7 +2920,7 @@ sr:"Need me (\d+x) (.+)\! I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color
 sr:"Hey, have you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Эй, а есть $1 $2? Заплачу <color\=#46CB4F>$3$</color> за это
 sr:"Hey dog\, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Бро, нужно $1 $2. Плачу <color\=#46CB4F>$3$</color>. По рукам?
 sr:"Ayo dawg\, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Айоу бро, если есть $1 $2 Плачу <color\=#46CB4F>$3$</color> за это. По рукам?
-sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Йо сладкий, можно $1 $2? Я заплачу <color\=#46CB4F>$3$</color>
+sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Йо чувак, можно $1 $2? Я заплачу <color\=#46CB4F>$3$</color>
 sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. DEAL\?"=Есть $1 $2??? Заплачу <color\=#46CB4F>$3$</color>. ПО РУКАМ?
 
 Yep=Ага
@@ -3092,13 +3093,16 @@ Friendly=Дружелюбный
 Loyal=Друг
 Addiction=Зависимость
 Standards=Стандарты
-Very Low=Очень низкие
-Moderate=Умеренные
+Very Low=Очень низкое
+Moderate=Умеренное
 Very Low standards.=Очень низкие стандарты.
 Low standards.=Низкие стандарты.
 Moderate standards.=Умеренные стандарты.
 High standards.=Высокие стандарты.
 Very High standards.=Очень высокие стандарты.
+This customer has <color\=#7D3232>Very low</color> standards=У этого клиента <color\=#7D3232>очень низкие</color> стандарты
+This customer has <color\=#509132FF>Low</color> standards=У этого клиента <color\=#509132FF>низкие</color> стандарты
+This customer has <color\=#64BDFD>Moderate</color> standards=У этого клиента <color\=#64BDFD>умеренные</color> стандарты
 Favourite Effects=Любимые эффекты
 
 Unlock this customer by giving them a free sample. Use your map to see their approximate location.=Разблокируй этого клиента дав ему бесплатный пробный образец. Используй карту чтобы увидеть его примерное местоположение.
@@ -3126,6 +3130,7 @@ Ingredients and packaging=Ингредиенты и упаковка
 Oscar's Store=Магазин Оскара
 General illegal supplies=Общие нелегальные поставки
 Weed Seeds=Семена марихуаны
+Shroom Supplies=Поставки для грибов
 
 
 Active Deliveries=Активные доставки
@@ -3137,6 +3142,7 @@ Loading Dock=Зона выгрузки
 Select a destination=Выбери пункт назначения
 Selected destination has no loading docks=У выбранного пункта нету зон выгрузки
 Select a loading dock=Выбери зону выгрузки
+Order is too large for delivery vehicle=Заказ слишком огромный
 Delivery already in progress=Доставка уже в пути
 Arrived=Прибыло
 Waiting=Ждёт
@@ -3248,7 +3254,7 @@ Come on lets go=Ну, давай
 Lets get this over with=Давай покончим с этим
 Lets get this party started=Да начнётся веселье
 Come on, let's do do this=Ну же, давай сделаем это
-Ready when you are homie=Жду тебя сладкий
+Ready when you are homie=Жду тебя бро
 Ready to roll?=Готов зажигать?
 Finally=Наконец
 Finally...=Наконец...
@@ -3269,7 +3275,7 @@ Very nice=Превосходно
 Very nice!=Превосходно!
 Cool=Охлождение
 Much appreciated=Вот спасибо
-Much appreciated homie=Вот спасибо сладкий
+Much appreciated homie=Вот спасибо чувак
 Sweet as my man=Заебок
 Hell yeah brotha=О да бро
 Oh thank god=Боже, спасибо
@@ -3378,6 +3384,10 @@ Collect Dead Drop=Забери закладку
 r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now paid off\.$"=Получены твои $$${1} наличными. Твой долг теперь оплачен.
 r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{1,3}(?:,\d{3})*)$"=Получены от тебя $$${1} налом. Твой долг теперь $$${2}
 r:"^When you're ready please deposit <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\ into my stash box - your debt is still unpaid.$"=Когда будешь готов, пожалуйста, положи <color\=#54E717>$1$</color> в мой тайник - ты мне должен.
+
+r:"^When you're ready please deposit <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> into my stash box - your debt is still unpaid\.$"=Когда будешь готов, пожалуйста, положи <color\=#54E717>$$${1}</color> в мой тайник - ты мне должен.
+
+
 r:"^I'm still currently waiting on a payment of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Please deposit it into my stash box when you've got a chance.$"=Я всё ещё жду оплату в размере <color\=#54E717>$1$</color>. Пожалуйста, положи деньги в мой тайник по возможности.
 
 We've been working together for a while now, and you've proven to be quite reliable. =Мы уже давно работаем вместе, и ты показал себя надёжным человеком.
@@ -3390,6 +3400,7 @@ Hey, you've been great to work with so I'm willing to start doing in-person meet
 Just send me a text if you'd like to meet.=Просто напиши, если хочешь встретиться.
 If you're looking to get real serious, I can deliver seeds straight to any of your properties. Just use your deliveries app to place an order, and I'll get it to you in no time.=Если хочешь всё по-серьёзке, могу доставлять семена прямо на твои участки. Просто используй приложение с доставками для заказа, и я всё привезу тебе мигом.
 Shoot me a text if you wanna meet up to buy supplies. You can purchase larger quantities in-person.=Ты это, черкани если захочешь встретиться. На месте можно взять побольше припасов.
+I'm now doing deliveries. Place an order through the deleveries app and I'll get it to your door as quick as I can.=Ах да, я теперь занимаюсь доставкой. Просто сделай заказ через приложение доставок и я привезу всё как можно быстрее.
 Agreed. I'll be under the west bridge for the next 6 hours.=Договор. Я буду под западным мостом в течение 6 часов.
 Agreed. I'll be next to the mayor's house for the next 6 hours.=По рукам. Буду рядом с домом мэра ближайшие 6 часов.
 Agreed. I'll be in the west construction for the next 6 hours.=Договорились. Буду на стройплощадке ближайшие 6 часов.
@@ -3456,7 +3467,7 @@ Select items to order from Salvador=Выбери предметы для зак�
 Hey, I'm Sal. You need Coca seeds? You speak to me.=Привет, я Сал. Нужны семена коки? Обращайся ко мне.
 Send me a message if you want to order a drop.=Напиши мне, если хочешь заказать закладку.
 
-View Salvador Moreno's Stash=Тайник Сальвадора Морено
+View Salvador Moreno's stash=Тайник Сальвадора Морено
 Salvador Moreno's Stash=Тайник Сальвадора Морено
 
 r:"^You owe Salvador Moreno <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt$"=Ты должен Сальвадору Морено <color\=#54E717>$1$</color>. Положи наличку, чтобы погасить долг
@@ -3508,6 +3519,7 @@ Give me a sec...=Дай секунду...
 Let me think...=Дай подумать...
 Let me try...=Дай затещу...
 Let's see...=Посмотрим...
+One moment bro...=Момент...
 
 Damn, that's pretty nice. You'll hear from me soon=Да, это действительно хорошо. Я тебе скоро напишу
 Damn, that's some good shit. You'll hear from me soon=Ебать, круто. Ты меня ещё увидишь
@@ -3559,6 +3571,7 @@ Not interested, sorry=Сорян, не интересно
 Not interested=Не интересно
 The hell was that?=Что это за хуйня?
 Argh! That's nasty=Фу! Что за параша
+Sorry homie, not my taste=Сорян чувак, не в моем вкусе
 Not interesed=Не интересно
 Not what I like, sorry=Мне такое не нравится, сорян
 I don't really like that...=Не люблю такое...
@@ -3948,6 +3961,7 @@ START=СТАРТ
 Mixing in progress...=Смешивание в процессе...
 r:"^(\d+) mins remaining$"=$1 мин осталось
 New Mix Discovered!=Получен новый микс!
+Mix Already Exists=Такой уже существует
 r:Market Value: \$(\d{1,3}(?:,\d{3})*)=Рыночная стоимость: \$$1
 r:"^Market Value: <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>$"=Рыночная стоимость: <color\=#54E717>$1$</color>
 Collect output=Собери итог
@@ -4292,7 +4306,7 @@ Friday=Пятница
 Saturday=Суббота
 Sunday=Воскресенье
 
-XP Earned=XP заработано
+XP Earned=Заработано опыта
 
 r:"^(\d{1,2})h (\d{1,2})m until next tier$"=$1ч $2м до следующего уровня
 r:"^(\d{1,2})m until next tier$"=$1м до следующего уровня
@@ -4425,6 +4439,7 @@ Stand still while you are searched=Стоять смирно пока обыск
 
 Wait! You're under arrest=Стоять! Ты арестован
 Hold still - you are under arrest!=Ни с места - ты арестован!
+Stand still - you're under arrest.=Стоять - ты арестован.
 
 
 If you want to drive through here, I'll need to search your vehicle.=Если хочешь проехать, мне нужно осмотреть твою машину.  
@@ -4535,6 +4550,8 @@ in front of the motel=перед мотелем
 Thompson\nConstruction & Demo=Строительная\nкомпания
 Behind Thompson construction and demolition=За строительной компанией
 behind Thompson construction and demolition=за строительной компанией
+Behind Thompson Construction=За строительной компанией
+behind Thompson Construction=за строительной компанией
 
 Stash & Dash=Складской блок
 
@@ -4683,6 +4700,7 @@ behind Handy Hank's=за хозтоварами Хэнка
 Body\nShop=Автосервис
 Behind the auto shop=За автосервисом
 behind the auto shop=за автосервисом
+Behind auto shop=За автосервисом
 
 Bleuball\nBoutique=Бутик
 
@@ -5061,7 +5079,7 @@ Talk to Lisa=Поговорить с Лизой
 Deal for Lisa=Сделка с Лизой
 Lisa=Лиза
 Lisa Gardener<color\=#A0A0A0FF> (Docks)</color>=Лиза <color\=#A0A0A0FF>(Портовой)</color>
-Deal completed for Lisa Gardener=Сделка с Брюсом завершена
+Deal completed for Lisa Gardener=Сделка с Лизой завершена
 
 Anna Chesterfield=Анна Честерфилд
 Talk to Anna=Поговорить с Аней
