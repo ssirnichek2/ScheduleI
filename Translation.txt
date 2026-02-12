@@ -153,7 +153,7 @@ Loading world...=Загрузка мира...
 Loading data...=Загрузка данных...
 Spawning player...=Спавн игрока...
 Initializing...=Инициализация...
-Waiting for host to finish loading...=Ожидаем хоста чтобы закончить загрузку...
+Waiting for host to finish loading...=Ожидаем хоста...
 
 ##-советы-##
 
@@ -229,6 +229,10 @@ You can use an AC unit to warm or cool an area.=Ты можешь использ
 You can rename stations, pots, storage racks, etc, using your management clipboard.=Ты можешь переименовывать станции, горшки, хранилища и т. д. с помощью планшета управления.
 
 Make sure you are providing the right quality product to your dealers for their assigned customers.=Убедись, что ты выдаёшь дилерам товар качества, соответствующего предпочтениям их клиентов.
+
+Buds/leaves will dry faster in warm temperatures.=Растения будут высыхать быстрее в высоких температурах.
+
+Clean off cartel graffiti ti reduce the Benzies' influence.=Смывай граффити Бензисов, чтобы понизить их влияние.
 
 ##--ПАУЗА--##
 
@@ -316,7 +320,7 @@ I'm here for Nelson's package=Я за посылкой Нельсона
 Oh yeah? And you gonna pay for it?=Окак. А ты собираешься платить?
 It's already paid for=Уже оплачено
 No it ain't. Infact, ol' Nellie already owes us some serious cash...=Да нихуя! Нельсон должен торчит серьёзную сумму...
-Lucky for you, he's been good on his word so far. But you let him know he better close that tab real soon...=К счастью для тебя, он рано или поздно оплачивал свой долг. Но тебе лучше передать ему чтобы побыстрее закрыл его на этот раз.
+Lucky for you, he's been good on his word so far. But you let him know he better close that tab real soon...=К счастью для тебя, он рано или поздно оплачивал свой долг. Но тебе лучше передать ему, чтобы побыстрее закрыл его на этот раз.
 I also need some weed seeds=Мне также надо немного семян марихуаны
 Ballsy today, huh? Fine, but if Nelson doesn't pay up, you'll be next in line.=Хули ты такой смелый? Ладно, но если Нельсон не заплатит, то мы спросим с тебя.
 
@@ -350,15 +354,15 @@ Talk to 'U.N.' at a payphone=Поговори с 'Д.Н.' по таксофон�
 Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - the feds have got me locked up while I wait for a trial. Glad to hear you managed to slip out, though.=Боже, как я рад тебя слышать, парень! Меня повязали, сижу жду суда. Рад, что тебе удалось сбежать.
 Back before I moved to Serena Flats, I used to live out there in Hyland Point. Not the nicest town around, but plenty of opportunity for a dru-... someone in your line of work.=До того как приехать в Сирену Флэтс, я жил в Хайленд Поинт. Город конечно не из лучших, но для нарко-... Короче, для таких, как ты - возможностей куча.
 If memory serves, I've got some cash stashed out there. It ain't much, but it'll be enough to get you back on your feet.=Если память мне не изменяет, для таких случаев я оставил тайники с деньгами. Их не много, но для начала достаточно.
-You can find it stashed near the <color\=#4CB0FF>town hall fountain, in the canal,</color> and <color\=#4CB0FF>behind the supermarket</color>. Go grab it, head back to the RV, and we'll go from there.=Найдёшь их возле <color\=#4CB0FF>фонтана у ратуши, в канале,</color> и <color\=#4CB0FF>за супермаркетом</color>. Забери и возвращайся к фургону, решим что делать.
+You can find it stashed near the <color\=#4CB0FF>town hall fountain, in the canal,</color> and <color\=#4CB0FF>behind the supermarket</color>. Go grab it, head back to the RV, and we'll go from there.=Найдёшь их возле <color\=#4CB0FF>фонтана у ратуши, в канале,</color> и <color\=#4CB0FF>за супермаркетом</color>. Забери и возвращайся к трейлеру, решим что делать.
 Collect the stash near the fountain=Забери тайник возле фонтана
 Collect the stash near the canal=Забери тайник возле канала
 Collect the stash behind the supermarket=Забери тайник за супермаркетом
 • Collect the stash near the fountain=• Забери тайник возле фонтана
 • Collect the stash near the canal=• Забери тайник возле канала
 • Collect the stash behind the supermarket=• Забери тайник за супермаркетом
-Head back to the RV=Вернись в фургон
-• Head back to the RV=• Вернись в фургон
+Head back to the RV=Вернись в трейлер
+• Head back to the RV=• Вернись в трейлер
 Investigate the explosion=Что за взрыв?
 • Investigate the explosion=• Что за взрыв?
 Read the note=Прочитай записку
@@ -366,8 +370,8 @@ Read the note=Прочитай записку
 Talk to Uncle Nelson at a payphone=Поговори с Дядей Нельсоном по таксофону
 • Talk to Uncle Nelson at a payphone=• Поговори с Дядей Нельсоном по таксофону
 Well shit... that's not ideal.=Пиздец... это не есть хорошо.
-There's a powerful cartel in town, the <color\=#4CB0FF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=В этом городе орудует мощный картель - <color\=#4CB0FF>Семья Бензис</color>. Я знал что они тебя найдут, но чтобы так быстро...
-Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#4CB0FF>motel</color> and ask about getting a room.=Тебе нужно место чтобы переконтоваться не на долго. Поспрашивай насчёт аренды комнаты в <color\=#4CB0FF>мотеле.</color>
+There's a powerful cartel in town, the <color\=#4CB0FF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=В этом городе орудует мощный картель - <color\=#4CB0FF>Семья Бензис</color>. Я знал что они тебя найдут, но, чтобы так быстро...
+Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#4CB0FF>motel</color> and ask about getting a room.=Тебе нужно место, чтобы переконтоваться не на долго. Поспрашивай насчёт аренды комнаты в <color\=#4CB0FF>мотеле.</color>
 After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color\=#4CB0FF>grow tent, soil</color>, and <color\=#4CB0FF>watering can.</color>=Затем тебе понадобится новое снаряжение.\nК северо-востоку от мотеля есть хозяйственный магаз. Возьми <color\=#4CB0FF>тент, почву</color> и <color\=#4CB0FF>лейку</color>.
 
 Getting Started=С чистого листа
@@ -417,7 +421,7 @@ Send him a <color\=#4CB0FF>message</color> and request a <color\=#4CB0FF>dead dr
 Order 1x OG Kush Seed from Albert Hoover=Закажи 1х семя OG Kush у Альберта Гувера
 • Order 1x OG Kush Seed from Albert Hoover=• Закажи 1х семя OG Kush у Альберта Гувера
 Hello, our mutual friend has asked me to help you acquire some Marijuana seeds.=Привет, наш общий друг попросил меня помочь тебе с добычей семян марихуаны.
-Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=Отправь мне сообщение чтобы заказать несколько. Нельсон за тебя поручился, так что дам в долг, оплатишь позже.
+Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=Отправь мне сообщение, чтобы заказать несколько. Нельсон за тебя поручился, так что дам в долг, оплатишь позже.
 
 r:"^Wait for the dead drop \((\d{1,3}) mins\)$"=Подожди закладку ($1 мин)
 Wait for the dead drop=Подожди закладку
@@ -475,7 +479,7 @@ It is up the stairs behind my restaurant! Go around back and you'll see.=Она 
 Move the grow tents and packaging station to the new room=Перенеси тенты и станцию упаковки в новую комнату
 • Move the grow tents and packaging station to the new room=Перенеси тенты и станцию упаковки в новую комнату
 Picking Objects Up=Сбор объектов
-Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Нажми и удержи <color\=#4CB0FF>правую кнопку мыши</color> на объекте чтобы его собрать.
+Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Нажми и удержи <color\=#4CB0FF>правую кнопку мыши</color> на объекте, чтобы его собрать.
 
 Dodgy Dealing=Сомнительные сделки
 Recruit and manage your first dealer to handle distribution for you.=Найми и управляй своим первым дилером, чтобы он за тебя продавал товар.
@@ -597,7 +601,7 @@ Purchase a spore syringe from Fungal Phil=Купи шприц со спорам�
 • Purchase a mushroom spawn station from Oscar=• Купи станцию инокуляции у Оскара
 Purchase a mushroom spawn station from Oscar=Купи станцию инокуляции у Оскара
 • Purchase a mushroom spawn station from Oscar=• Купи станцию инокуляции у Оскара
-Use the mushroom spawn station to inocculate a grain bag=Используй станцию инокуляции чтобы инокулировать зерно
+Use the mushroom spawn station to inocculate a grain bag=Используй станцию инокуляции, чтобы инокулировать зерно
 • Use the mushroom spawn station to inocculate a grain bag=• Используй станцию инокуляции чтобы инокулировать зерно
 Mix the shroom spawn into a mushroom bed=Смешай зерновой мицелий и грибной субстрат в грибной грядке
 • Mix the shroom spawn into a mushroom bed=• Смешай зерновой мицелий и грибной субстрат в грибной грядке
@@ -636,7 +640,7 @@ Dispose of the trash bag=Избавься от мусорного мешка
 • Dispose of the trash bag=• Избавься от мусорного мешка
 
 Needin' the Green=Нужны зелёные
-Time to make some MONEY!!!!!=Время чтобы делать БАБКИ!!!!!
+Time to make some MONEY!!!!!=Время, чтобы делать БАБОСЫ!!!!!
 r:Earn \$10,000 \((.*)\/(.*)\)=Заработай $10,000\n($1/$2)
 r:• Earn \$10,000 \((.*)\/(.*)\)=• Заработай $10,000\n($1/$2)
 
@@ -649,7 +653,7 @@ Laundering involves using a legal business to conceal the origin of your less-th
 First thing's first, you're gonna need a business. Go check out <color\=#4CB0FF>Rays Realty</color>. You're probably not gonna be buying out the casino any time soon, but there should be a cheap business for sale.=Для начала тебе нужен бизнес. Загляни в <color\=#4CB0FF>агентство недвижимости Рэя</color>. Казино тебе пока не по карману, но наверняка найдётся недорогой бизнес на продажу.
 Purchase a business at Ray's Realty=Купи бизнес в агентстве недвижимости 
 Go to your new business=Отправляйся в свой новый бизнес
-Use the laundering station to start a new laundering operation=Используй станцию отмыва чтобы начать отмыв
+Use the laundering station to start a new laundering operation=Используй станцию отмыва, чтобы начать отмыв
 Wait for the laundering operation to complete=Жди когда деньги отмоются
 
 Wretched Hive of Scum and Villainy=Поганое логово негодяев и отбросов
@@ -1748,7 +1752,7 @@ Gloves (LightGrey)=Перчатки (Светло-серые)
 Saucepan=Кастрюля
 It's stylish AND functional!=Стильно И функционально!
 Beanie=Шапочка
-Soft fabric headwear to keep your noggin warm.=Мягкая, тканевая шапка чтобы согреть твою лысину.
+Soft fabric headwear to keep your noggin warm.=Мягкая, тканевая шапка, чтобы согреть твою лысину.
 Beanie (White)=Шапочка (Белая)
 Beanie (HotPink)=Шапочка (Ярко-розовая)
 Beanie (BrightPink)=Шапочка (Яркий розовая)
@@ -2421,6 +2425,10 @@ Come back when you're serious!=Возвращайся, когда настрои
 I'm gonna beat your ass!=Я ща тебя выебу нахуй!
 Son of a bitch!=Пидорас!
 
+Get over here, punk=А ну иди сюда, выблядок
+You're dead!=Тебе пизда!
+You're dead...=Тебе пизда...
+
 ##--ПЛАНШЕТ--##
 
 Management Clipboard=Планшет управления
@@ -2435,7 +2443,7 @@ Deselect All=Отменить всё
 Hi boss=Босс?
 Why aren't you working?=Ты чего не работаешь?
 
-Sorry boss, I need to be assigned a locker before I can get to work.=Извините, мне нужен шкафчик чтобы приступить к работе.
+Sorry boss, I need to be assigned a locker before I can get to work.=Извините, мне нужен шкафчик, чтобы приступить к работе.
 How do I assign your locker?=Как мне назначить тебе шкафчик?
 You can use your management clipboard for that.=С помощью планшета управления.
 Sorry boss, I haven't been paid to work today.=Извините, мне сегодня не заплатили.
@@ -2484,7 +2492,7 @@ Manage Storage=Управлять хранилищем
 
 Manage Mixing Station=Управлять станцией смешивания
 Threshold=Порог
-^Mixing station must contain at least this many product/mixers before mixing starts=^Станция смешивания должна содержать это количество продукта/ингредиента чтобы стартовать
+^Mixing station must contain at least this many product/mixers before mixing starts=^Станция смешивания должна содержать это количество продукта/ингредиента, чтобы стартовать
 ^Output will be automatically moved to the destination by the assigned chemist=^Итог будет перенесён в пункт назначения назначенным химиком
 
 Manage Mushroom Bed=Управлять грибной грядкой
@@ -2504,7 +2512,7 @@ Manage Lab Oven=Управлять лабороторной печью
 Manage Drying Rack=Управлять сушилкой
 Target Quality=Качество
 ^The assigned botanist will remove items from the rack once they reach this quality=^Назначенный садовод снимет продукт с сушилки, когда он достигнет этого качества
-^Minimum amount of buds/leaves for the assigned botanist to begin the drying process=^Сушилка должна содержать это количество продукта чтобы стартовать
+^Minimum amount of buds/leaves for the assigned botanist to begin the drying process=^Сушилка должна содержать это количество продукта, чтобы стартовать
 
 Manage Brick Press=Управлять прессом
 
@@ -2627,9 +2635,9 @@ Thanks. Hey, my friend Wei Long is a dealer and can help you move your product. 
 Cheers. My friend Wei Long is a dealer and might be able to help you move your stuff. You should go speak to them.=Спасибо. Мой друг Вэй Лонг - дилер, он может помочь тебе с продажами. Тебе стоит с ним поговорить.
 Thank you. You should go talk to Wei Long - they might be able to help you move your stuff.=Спасибо тебе. Поговори с Вэй Лонгом - он может помочь толкать твой товар.
 
-Thanks. Hey, my friend Leo River is a dealer and can help you move your product. You should go speak to them.=Спасибо. Мой друг Лео Ривер - дилер, может помочь с толканием твоего товара. Тебе стоит поговорить с ним.
-Cheers. My friend Leo River is a dealer and might be able to help you move your stuff. You should go speak to them.=Спасибо. Мой друг Лео Ривер - дилер, он может помочь тебе с продажами. Тебе стоит с ним поговорить.
-Thank you. You should go talk to Leo River - they might be able to help you move your stuff.=Спасибо тебе. Поговори с Лео Ривером - он может помочь толкать твой товар.
+Thanks. Hey, my friend Leo Rivers is a dealer and can help you move your product. You should go speak to them.=Спасибо. Мой друг Лео Ривер - дилер, может помочь с толканием твоего товара. Тебе стоит поговорить с ним.
+Cheers. My friend Leo Rivers is a dealer and might be able to help you move your stuff. You should go speak to them.=Спасибо. Мой друг Лео Ривер - дилер, он может помочь тебе с продажами. Тебе стоит с ним поговорить.
+Thank you. You should go talk to Leo Rivers - they might be able to help you move your stuff.=Спасибо тебе. Поговори с Лео Ривером - он может помочь толкать твой товар.
 
 
 Thanks. By the way, my friend Shirley can hook you up with pseudo. I've passed your number on to her.=Спасибо. Кстати, моя подруга Ширли может подкинуть тебе псевдо. Я уже передал ей твой номер.
@@ -2661,8 +2669,8 @@ sr:Deal for the Benzies Family\\n<color\=#F7B119>\((\d+) hour remaining\)=Сде
 
 sr:Deliver (\d+x) (.+?) to Hyland Manor=Доставь $1 $2 в Поместье Хайленда
 sr:• Deliver (\d+x) (.+?) to Hyland Manor=Доставь $1 $2 в Поместье Хайленда
-(Optional) Message Thomas to call off the truce=• (Опционально) Напиши Томасу чтобы расторгнуть контракт
-• (Optional) Message Thomas to call off the truce=• (Опционально) Напиши Томасу чтобы расторгнуть контракт
+(Optional) Message Thomas to call off the truce=• (Опционально) Напиши Томасу, чтобы расторгнуть контракт
+• (Optional) Message Thomas to call off the truce=• (Опционально) Напиши Томасу, чтобы расторгнуть контракт
 Calling off the agreement with the Benzies is irreversible. \n\nThey will immediately become hostile towards you.=Отмена соглашения с Бензисами необратима.\n\n\nОни сразу же станут враждебно настроены по отношению к тебе.
 
 Region Unavailable=Район недоступен
@@ -2678,7 +2686,7 @@ If you're not working with us, then you're against us. You're going to regret co
 
 Dismiss=Пропустить
 
-While dragging an item, press <color\=#88CBFF>A</color> or <color\=#88CBFF>D</color> to rotate it.=<size\=13>При перетаскивании предмета нажми <color\=#88CBFF>A</color> или <color\=#88CBFF>D</color> чтобы повернуть его.</size>
+While dragging an item, press <color\=#88CBFF>A</color> or <color\=#88CBFF>D</color> to rotate it.=<size\=13>При перетаскивании предмета нажми <color\=#88CBFF>A</color> или <color\=#88CBFF>D</color>, чтобы повернуть его.</size>
 Press <color\=#88CBFF>Tab</color> to open your phone.=<size\=13>
 Нажми <color\=#88CBFF>Tab</color>, чтобы включить телефон.</size>
 Нажми <color\=#88CBFF>Q</color>, чтобы включить телефон.</size>
@@ -2697,11 +2705,11 @@ There is a <color\=#F86266>mandatory curfew</color> between 9PM and 5AM. Police 
 Dead drops take time to fulfill, depending on the size of the order. The supplier will <color\=#88CBFF>message you</color> when it's ready.=От размера заказа зависит и время размещения закладки. Поставщик <color\=#88CBFF>сообщит</color> о готовности.
 Use the <color\=#88CBFF>product manager app</color> on your phone to list products for sale.=<size\=15>Используй <color\=#88CBFF>приложение 'Продукты'</color> на телефоне, чтобы выставить товар на продажу.</size>
 The purple area indicates the <color\=#88CBFF>approximate area</color> of the customer.=Фиолетовая зона показывает <color\=#88CBFF>примерное местоположение</color> клиента.
-Use <color\=#88CBFF>RMB</color> to toggle between <color\=#F86266>heating</color> and <color\=#88CBFF>cooling</color> while placing an AC unit.=Нажми <color\=#88CBFF>ПКМ</color> чтобы переключать между <color\=#88CBFF>охлаждением</color> и <color\=#F86266>обогревом</color> пока держишь кондиционер.
+Use <color\=#88CBFF>RMB</color> to toggle between <color\=#F86266>heating</color> and <color\=#88CBFF>cooling</color> while placing an AC unit.=Нажми <color\=#88CBFF>ПКМ</color>, чтобы переключать между <color\=#88CBFF>охлаждением</color> и <color\=#F86266>обогревом</color> пока держишь кондиционер.
 Reach the rank of <color\=#88CBFF>Hoodlum V</color> to access this area.=Доступ к области откроется с ранга <color\=#88CBFF>Гангстер V</color>.
 Many different items can be used as a mixer. Consider buying a few different mixing ingredients for experimenting.=Множество предметов подходят для смешивания. Купи пару ингредиентов и поэкспериментируй.
 Remember to list your new product for sale in the <color\=#88CBFF>product manager app</color>.=Не забудь выставить новый товар на продажу в <color\=#88CBFF>приложении 'Продукты'</color>.
-Mushrooms only grow in cool temperatures. Use an <color\=#88CBFF>AC Unit</color> to keep the area cool.=Грибы растут только в холодной температуре. Для этого используй <color\=#88CBFF>кондиционер</color>.
+Mushrooms only grow in cool temperatures. Use an <color\=#88CBFF>AC Unit</color> to keep the area cool.=Грибы растут только в холодных температурах. Для этого используй <color\=#88CBFF>кондиционер</color>.
 Remember to list your new product for sale in the <color\=#88CBFF>product manager app</color>.
 
 sr:"You can now hire <color\=#88CBFF>Benji Coleman</color> as a dealer.$"=Теперь можно нанять <color\=#88CBFF>Бенджи Кулмана</color> дилером.
@@ -2709,8 +2717,8 @@ sr:"You can now hire <color\=#88CBFF>Molly Presley</color> as a dealer.$"=Теп
 sr:"You can now hire <color\=#88CBFF>Brad Crosby</color> as a dealer.$"=Теперь можно нанять <color\=#88CBFF>Брэда Кросби</color> дилером.
 sr:"You can now hire <color\=#88CBFF>Jane Lucero</color> as a dealer.$"=Теперь можно нанять <color\=#88CBFF>Джейн Люсеро</color> дилером.
 sr:"You can now hire <color\=#88CBFF>Wei Long</color> as a dealer.$"=Теперь можно нанять <color\=#88CBFF>Вэя Лонга</color> дилером.
-sr:"You can now hire <color\=#88CBFF>Leo River</color> as a dealer.$"=Теперь можно нанять <color\=#88CBFF>Лео Ривера</color> дилером.
-Use the <color\=#88CBFF>dealer management app</color> to assign customers to dealers.=Используй приложение <color\=#88CBFF>'Дилеры'</color> чтобы назначать клиентов для дилеров.
+sr:"You can now hire <color\=#88CBFF>Leo Rivers</color> as a dealer.$"=Теперь можно нанять <color\=#88CBFF>Лео Ривера</color> дилером.
+Use the <color\=#88CBFF>dealer management app</color> to assign customers to dealers.=Используй приложение <color\=#88CBFF>'Дилеры'</color>, чтобы назначать клиентов для дилеров.
 
 You can now order <color\=#88CBFF>pseudo</color> from Shirley. Pseudo is the main precursor ingredient for <color\=#88CBFF>methamphetamine</color>.=Теперь можно заказывать <color\=#88CBFF>псевдо</color> у Ширли. Псевдо - основной прекурсор для <color\=#88CBFF>метамфетамина</color>.
 You can now order <color\=#4CB0FF>magic mushroom supplies</color> from <color\=#4CB0FF>Fungal Phil</color>.=Теперь можно заказывать <color\=#88CBFF>поставки для грибов</color> у <color\=#88CBFF>Грибного Фила</color>.
@@ -3051,7 +3059,7 @@ r:Assigned Customers (.*)\/(.*)=Назначенные клиенты $1/$2
 Tasks=Квесты
 Task Details=Детали задания
 Nothing to do for now...=Тебе нечего делать...
-Hover a task to view details=Выбери квест чтобы посмотреть его детали
+Hover a task to view details=Выбери квест, чтобы посмотреть его детали
 Quest Description=Описание квеста
 sr:"(.+) has requested a delivery of (\d+x) (.+) (.+) for \$(\d{1,3}(?:,\d{3})*)\."=У тебя сделка с $1. Заплатит $5$.
 Active=Активно
@@ -3063,7 +3071,7 @@ Show on map=На карте
 Product Manager=Управление продуктами
 
 None=Нету
-Select a product to view details=Выбери продукт чтобы посмотреть детали
+Select a product to view details=Выбери продукт, чтобы посмотреть его детали
 
 Favourites=Любимые
 Marijuana=Марихуана
@@ -3105,7 +3113,7 @@ This customer has <color\=#509132FF>Low</color> standards=У этого клие
 This customer has <color\=#64BDFD>Moderate</color> standards=У этого клиента <color\=#64BDFD>умеренные</color> стандарты
 Favourite Effects=Любимые эффекты
 
-Unlock this customer by giving them a free sample. Use your map to see their approximate location.=Разблокируй этого клиента дав ему бесплатный пробный образец. Используй карту чтобы увидеть его примерное местоположение.
+Unlock this customer by giving them a free sample. Use your map to see their approximate location.=Разблокируй этого клиента дав ему бесплатный пробный образец. Используй карту, чтобы увидеть его примерное местоположение.
 Unlock this dealer by reaching 'friendly' with one of their connections.=Разблокируй этого дилера подружившись с одним из его контактов.
 Unlock this supplier by reaching 'friendly' with one of their connections.=Разблокируй этого поставщика подружившись с одним из его контактов.
 This dealer is ready to be hired. Go to them and pay their signing free to recruit them.=Дилер готов стать вашим, поговори с ним.
@@ -3210,6 +3218,7 @@ The hell bro?=Ты еблан?
 Quit it!=Уйди!
 Go away dude!=Чувак съеби нахуй!
 Get away!=Исчезни!
+Get away dude!=Исчезни чувак!
 What's your problem?=Ты больной?
 What?!=Чего?!
 WHAT?=ЧТО?
@@ -3322,17 +3331,17 @@ sr:This is what they got:\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.
 sr:This is what they got:\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n(\d+x) (.+?) of (.+?) \((.+?)\)\\n\$(\d{1,3}(?:,\d{3})?) cash=Вот что забрали:\n$1 $2 с $3 ($4)\n$5 $6 с $7 ($8)\n$9 $10 с $11 ($12)\n$13 $14 с $15 ($16)\n$17 $18 с $19 ($20)\n$21$ налички
 
 UNLOCK ONE OF BENJI'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ БЕНДЖИ
-ONE OF BENJI'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ БЕНДЖИ
+MUST BE RECOMMENDED BY ONE OF BENJI'S CONNECTIONS=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ БЕНДЖИ
 UNLOCK ONE OF MOLLY'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ МОЛЛИ
-ONE OF MOLLY'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ МОЛЛИ
+MUST BE RECOMMENDED BY ONE OF MOLLY'S CONNECTIONS=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ МОЛЛИ
 UNLOCK ONE OF BRAD'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ БРЭДА
-ONE OF BRAD'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ БРЭДА
+MUST BE RECOMMENDED BY ONE OF BRAD'S CONNECTIONS=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ БРЭДА
 UNLOCK ONE OF JANE'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ ДЖЕЙН
-ONE OF JANE'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ ДЖЕЙН
+MUST BE RECOMMENDED BY ONE OF JANE'S CONNECTIONS=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ ДЖЕЙН
 UNLOCK ONE OF WEI'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ ВЭЯ
-ONE OF WEI'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ ВЭЯ
+MUST BE RECOMMENDED BY ONE OF WEI'S CONNECTIONS=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ ВЭЯ
 UNLOCK ONE OF LEO'S CONNECTIONS=РАЗБЛОКИРУЙ ОДНУ ИЗ СВЯЗЕЙ ЛЕО
-ONE OF LEO'S CONNECTIONS MUST FIRST RECOMMEND YOU=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ ЛЕО
+MUST BE RECOMMENDED BY ONE OF LEO'S CONNECTIONS=ПОДРУЖИСЬ С ОДНОЙ ИЗ СВЯЗЕЙ ЛЕО
 
 
 
@@ -3426,7 +3435,7 @@ Hello sir. Ready to peruse the supplies?=Привет. Готов выбрать
 Hey - ready to take a peek at the supplies?=Хэй - хочешь взглянуть на припасы?
 Hey - ready to take a gander?=Хэй - хочешь взглянуть?
 Need something?=Что-нибудь нужно?
-Insufficient cash. Visit an ATM to withdraw cash.=Недостаточно налички. Посети банкомат чтобы снять деньги.
+Insufficient cash. Visit an ATM to withdraw cash.=Недостаточно налички. Посети банкомат, чтобы снять деньги.
 Good doing business with you, sir.=С тобой приятно иметь дело, бро.
 
 Supplier Meeting=Собрание поставщика
@@ -3507,7 +3516,7 @@ ALREADY OFFERED TODAY=СЕГОДНЯ ПРЕДЛАГАЛОСЬ
 
 Can I interest you in a free sample?=Могу заинтересовать тебя бесплатным образцом?
 Give Free Sample=Дай бесплатный образец
-sr:"^Place a product here for (.+) to try$"=Размести тут продукт чтобы $1 их попробовал(а)
+sr:"^Place a product here for (.+) to try$"=Размести тут продукт, чтобы $1 их попробовал(а)
 sr:"^(.+)'s favourite effects:$"=Любимые эффекты $1:
 Only 1 sample product is required.=Требуется только 1 образец
 r:(\d+)% chance of success=$1% шанс успеха
@@ -3592,6 +3601,7 @@ I haven't had my fix in too long, I really need something right now. You got any
 Hey! I really need some of your stuff right now... you got anything?=Эй! Мне срочно нужна твоя дурь... есть что-нибудь?
 What do you have for sale?=Что у вас есть на продажу?
 Hey bro! I really need some of your stuff right now... you got anything?=Эй, бро! Мне очень нужен твой товар прям щас... у тебя есть чё?
+Hey man! I'm really in need right now. Please tell me you've got something I can buy..?=Слушай, мне срочно нужно закинуться. Прошу, скажи, у тебя есть чёт..?
 Come on, I really need something=Давай, мне прям уже надо
 
 [Make an offer]=[Сделать предложение]
@@ -3663,7 +3673,7 @@ One 'Green Crack' marijuana seed.=Одно семя марихуаны 'Green Cr
 Granddaddy Purple Seed =Семя Granddaddy Purple
 One 'Granddaddy Purple' marijuana seed.=Одно семя марихуаны 'Granddaddy Purple'.
 Sow seed=Посадить
-Click cap to remove=Нажми на крышку чтобы открыть
+Click cap to remove=Нажми на крышку, чтобы открыть
 Drop seed into hole=Размести семя в яме
 r:Click soil chunks to bury seed (.*)\/(.*)=Нажми на комки почвы, чтобы засыпать семя $1/$2
 Already contains seed=Уже посажено
@@ -3739,7 +3749,7 @@ r:(\d+)% grown=Выросло на $1%
 Soil=Почва
 Basic potting soil to grow stuff in.=Обычная почва для выращивания.
 Pour soil=Засыпать почву
-Click and drag to cut bag=Нажми и проведи чтобы разрезать пакет
+Click and drag to cut bag=Нажми и проведи, чтобы разрезать пакет
 r:Pour into pot (.*)=Засыпь почву в горшок $1
 
 Long-Life Soil=Долговечная почва
@@ -3752,7 +3762,7 @@ Watering Can=Лейка
 Holds water.=Хранит воду.
 r:(\d{1,3}(?:,\d{1,2})?)L=$1Л
 Use tap=Наполнить
-r:Click and hold tap to fill (.*)=Нажми и удерживай кран чтобы наполнить лейку $1
+r:Click and hold tap to fill (.*)=Нажми и удерживай кран, чтобы наполнить лейку $1
 Watering can empty=Лейка пустая
 Already full=Уже заполнено
 Pour water=Полить
@@ -3785,17 +3795,17 @@ Inventory full=Инвентарь полон
 Inventory Full=Инвентарь полон
 Input Hints=Подсказки по взаимодействию
 If you're wondering how to do something, \nthere's usually input hints in the bottom left corner.=Если ты не знаете, как что-то сделать, \nобычно подсказки по управлению находятся в нижнем левом углу.
-r:Click buds to harvest (.*)\/(.*)=Нажми на шишки чтобы собрать урожай $1/$2
-r:Click mushrooms to harvest (.*)\/(.*)=Нажми на грибы чтобы собрать урожай $1/$2
-r:Click leaves to harvest (.*)\/(.*)=Нажми на листья чтобы собрать урожай $1/$2
+r:Click buds to harvest (.*)\/(.*)=Нажми на шишки, чтобы собрать урожай $1/$2
+r:Click mushrooms to harvest (.*)\/(.*)=Нажми на грибы, чтобы собрать урожай $1/$2
+r:Click leaves to harvest (.*)\/(.*)=Нажми на листья, чтобы собрать урожай $1/$2
 Rotate Pot=Вращать горшок
 No plant in this pot=Горшок пустой
 
 Electric Plant Trimmers=Электрические секаторы
 A pair of electric plant trimmers. Simply click and drag to harvest.=Электрические садовые секаторы. Нажми и тащи, чтобы собрать урожай.
-r:Click and hold over buds to harvest (.*)\/(.*)=Нажми и удерживай на шишках чтобы собрать урожай $1/$2
-r:Click and hold over mushrooms to harvest (.*)\/(.*)=Нажми и удерживай на грибах чтобы собрать урожай $1/$2
-r:Click and hold over leaves to harvest (.*)\/(.*)=Нажми и удерживай на листьях чтобы собрать урожай $1/$2
+r:Click and hold over buds to harvest (.*)\/(.*)=Нажми и удерживай на шишках, чтобы собрать урожай $1/$2
+r:Click and hold over mushrooms to harvest (.*)\/(.*)=Нажми и удерживай на грибах, чтобы собрать урожай $1/$2
+r:Click and hold over leaves to harvest (.*)\/(.*)=Нажми и удерживай на листьях, чтобы собрать урожай $1/$2
 
 Packaging Station=Станция упаковки
 Provides a clean surface to place product into packaging.=Обеспечивает чистую поверхность для упаковки продукта.
@@ -3810,7 +3820,7 @@ UNPACKAGE=РАСПАКОВКА
 PACK=УПАКОВАТЬ
 UNPACK=РАСПАКОВАТЬ
 Place product into packaging=Помести продукт в упаковку
-Click baggie to seal=Нажми на пакетик чтобы закрыть
+Click baggie to seal=Нажми на пакетик, чтобы закрыть
 Place lid on jar=Закрой банку
 Place packaging in hopper=Перетащи продукт в контейнер
 Interact / Drag=Закрыть / Тащить
@@ -3861,6 +3871,7 @@ Can't sleep while energized!=не хочу спать, во мне стольк�
 Can't sleep while athletic!=не хочу спать, во мне столько энергии!
 Waiting for other players=Ожидание игроков
 Waiting for other players...=Ожидание игроков...
+Waiting for others...=Ожидание игроков...
 Waiting for host...=Ожидание хоста...
 Waiting for host=Ожидание хоста
 
@@ -4183,7 +4194,7 @@ That'll be a fine addition to your collection=Прекрасное дополн�
 Excellent choice, Sir=Отличный выбор, сударь
 
 Wall Clock=Настенные часы
-Flat disk with two small arms used to indicate the time.=Диск с двумя стрелками чтобы показывать время
+Flat disk with two small arms used to indicate the time.=Диск с двумя стрелками, чтобы показывать время
 
 Wooden Sign=Деревянный знак
 A wall-mounted wooden sign that you can write on.=Настенный деревянный знак на котором можно писать.
@@ -4197,7 +4208,7 @@ Wall-Mounted Shelf=Настенная полка
 A 2-tier wall-mounted shelf which you can place items on.=Настенная двухместная полка на которую можно ставить предметы.
 
 Safe=Сейф
-A big metal safe to store all your fancy stuff in.=Большой железный сейф чтобы сохранить все твои драгоценности.
+A big metal safe to store all your fancy stuff in.=Большой железный сейф, чтобы сохранить все твои драгоценности.
 Access safe=Открыть
 Open safe=Открыть
 
@@ -4205,7 +4216,7 @@ Antique Wall Lamp=Антикварная настенная лампа
 An antique lamp that can be placed on walls. Can't be used to grow plants, but it's great for seeing stuff.=Антикварная настенная лампа. Для выращивания растений не подходит, но отлично освещает.
 
 Modern Wall Lamp=Современная настенная лампа
-A minimalist lamp that can be placed on walls. Can't be used to grow plants, but it's great seeing stuff.=Минималистичная настенная лампа. Для выращивания растений не подходит, но отлично освещает.
+A minimalist lamp that can be placed on walls. Can't be used to grow plants, but it's great for seeing stuff.=Минималистичная настенная лампа. Для выращивания растений не подходит, но отлично освещает.
 
 Jukebox=Проигрыватель
 Full-size retro jukebox. Can play a variety of groovy songs.=Полноразмерный ретро проигрыватель. Может играть множество треков.
@@ -4445,6 +4456,9 @@ Stand still - you're under arrest.=Стоять - ты арестован.
 If you want to drive through here, I'll need to search your vehicle.=Если хочешь проехать, мне нужно осмотреть твою машину.  
 You need to park your car nearby for me to search it.=Припаркуй её рядом для досмотра.
 Stay here while I search your vehicle=Стой здесь, пока я обыскиваю транспорт
+
+I'll be done shortly=Я скоро закончу
+Hold on=Подожди
 
 Thanks, we're done.=Спасибо, мы закончили.
 All clear.=Всё чисто.
@@ -5219,7 +5233,7 @@ Talk to Dennis=Поговорить с Дэнисом
 Deal for Dennis=Сделка с Дэнисом
 Dennis=Дэнис
 Dennis Kennedy<color\=#A0A0A0FF> (Suburbia)</color>=Дэнис <color\=#A0A0A0FF>(Пригородный)</color>
-Deal completed for Jack Knight=Сделка с Джеком завершена
+Deal completed for Dennis Kennedy=Сделка с Дэнисом завершена
 
 Lily Turner=Лили Тёрнер
 Talk to Lily=Поговорить с Лили
